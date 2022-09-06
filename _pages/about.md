@@ -17,8 +17,9 @@ Education
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Zhu, K., Liu, H., & Yang, Y. (2022+). Design-based theory for Lasso adjustment in randomized block experiments with a general blocking scheme. *arXiv preprint* arXiv:2109.11271v2.
+* Zhu, K., & Liu, H. (2022+). Pair-switching rerandomization. *Biometrics*, to appear.
+* Zhu, K., & Liu, H. (2022). Confidence intervals for parameters in high-dimensional sparse vector autoregression. *Computational Statistics & Data Analysis*, 168, 107383.
+
   
 
