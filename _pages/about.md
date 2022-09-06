@@ -12,7 +12,7 @@ Education
 ======
 * B.S. in Statistics, Beijing Normal University, 2017
 * B.A. in Economics, Peking University, 2018
-* Ph.D in Statistics, Tsinghua University, 2023 (expected)
+* Ph.D. in Statistics, Tsinghua University, 2023 (expected)
 
 **Working Papers**
 ======
