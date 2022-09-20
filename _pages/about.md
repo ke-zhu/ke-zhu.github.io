@@ -27,8 +27,8 @@ Publications
 * **Zhu, K.**, & Liu, H. (2022). Confidence intervals for parameters in high-dimensional sparse vector autoregression. *Computational Statistics & Data Analysis*, 168: 107383.
 * **Zhu, K.**\*, Jiang, Y.\*, Wang, X., Shi, Z., Yang, C., Liu, H., & Deng, K. (2022+). Customized product risk assessment based on non-negative penalized logistic regression (in Chinese). Journal of Applied Statistics and Management, to appear.
 * **Zhu, K.**\*, Jiang, Y.\*, Wang, X., Shi, Z., Yang, C., Liu, H., & Deng, K. (2022). A new framework of customized production product certification based on the combination of domain knowledge and data inference (in Chinese). Chinese Journal of Applied Probability and Statistics, 38(4): 581-602.
-* Hu, C., Zhu, K., Huang, K., Yu, B., Jiang, W., Peng, K., & Wang, F. (2022). Using natural intervention to promote subjective well-being of essential workers during public-health crises: A Study during COVID-19 pandemic. *Journal of Environmental Psychology*, 79: 101745.
-* Zhang, H., Zhu, K., Wang, J., & Lv, X. (2022). The use of a new classification in endovascular treatment of dural arteriovenous fistulas. *Neuroscience Informatics*, 2(2): 100047.
+* Hu, C., **Zhu, K.**, Huang, K., Yu, B., Jiang, W., Peng, K., & Wang, F. (2022). Using natural intervention to promote subjective well-being of essential workers during public-health crises: A Study during COVID-19 pandemic. *Journal of Environmental Psychology*, 79: 101745.
+* Zhang, H., **Zhu, K.**, Wang, J., & Lv, X. (2022). The use of a new classification in endovascular treatment of dural arteriovenous fistulas. *Neuroscience Informatics*, 2(2): 100047.
 
   
 
