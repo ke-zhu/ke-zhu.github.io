@@ -10,9 +10,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Statistics, Tsinghua University, 2018--2023 (expected)
-* B.A. in Economics (double-major program), Peking University, 2015--2018
-* B.S. in Statistics, Beijing Normal University, 2013--2017
+* Ph.D. in Statistics, Tsinghua University, 2023 (expected)
+* B.A. in Economics (double-major program), Peking University, 2018
+* B.S. in Statistics, Beijing Normal University, 2017
 
 
 
