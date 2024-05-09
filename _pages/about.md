@@ -19,14 +19,15 @@ Education
 Publications
 ======
 (\* indicates corresponding author)
-* [1] **Zhu, K.**, & Liu, H.\* (2023). Pair-switching rerandomization. *Biometrics*, 79(3): 2127-2142.
-* [2] **Zhu, K.**, & Liu, H.\* (2022). Confidence intervals for parameters in high-dimensional sparse vector autoregression. *Computational Statistics & Data Analysis*, 168: 107383.
-* [3] Hu, C., **Zhu, K.**, Huang, K., Yu, B., Jiang, W., Peng, K., & Wang, F.\* (2022). Using natural intervention to promote subjective well-being of essential workers during public-health crises: A Study during COVID-19 pandemic. *Journal of Environmental Psychology*, 79: 101745.
-* [4] Zhang, H., **Zhu, K.**, Wang, J., & Lv, X.\* (2022). The use of a new classification in endovascular treatment of dural arteriovenous fistulas. *Neuroscience Informatics*, 2(2): 100047.
+* [1] **Zhu, K.**, & Liu, H.\* (2024). Rejoinder to "On exact randomization-based covariate-adjusted confidence intervals". *Biometrics*, in press.
+* [2] **Zhu, K.**, & Liu, H.\* (2023). Pair-switching rerandomization. *Biometrics*, 79(3): 2127-2142.
+* [3] **Zhu, K.**, & Liu, H.\* (2022). Confidence intervals for parameters in high-dimensional sparse vector autoregression. *Computational Statistics & Data Analysis*, 168: 107383.
+* [4] Hu, C., **Zhu, K.**, Huang, K., Yu, B., Jiang, W., Peng, K., & Wang, F.\* (2022). Using natural intervention to promote subjective well-being of essential workers during public-health crises: A Study during COVID-19 pandemic. *Journal of Environmental Psychology*, 79: 101745.
+* [5] Zhang, H., **Zhu, K.**, Wang, J., & Lv, X.\* (2022). The use of a new classification in endovascular treatment of dural arteriovenous fistulas. *Neuroscience Informatics*, 2(2): 100047.
 
 
 Technical Reports
 ======
-* [5] **Zhu, K.**, Liu, H.\*, & Yang, Y.\* (2024+). Design-based theory for Lasso adjustment in randomized block experiments and rerandomized experiments. *Journal of Business & Economic Statistics*. Revision submitted.
-* [6] Yu, H., **Zhu, K.**\*, & Liu, H. (2024+). Sharp variance estimator and causal bootstrap in stratified randomized experiments. Submitted.
+* [6] **Zhu, K.**, Liu, H.\*, & Yang, Y.\* (2024+). Design-based theory for Lasso adjustment in randomized block experiments and rerandomized experiments. *Journal of Business & Economic Statistics*, revision submitted.
+* [7] Yu, H., **Zhu, K.**\*, & Liu, H. (2024+). Sharp variance estimator and causal bootstrap in stratified randomized experiments.
 
