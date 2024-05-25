@@ -21,7 +21,7 @@ Publications
 (\* indicates corresponding author)
 * [1] Xia, F., **Zhu, K.**, Ren, Y., and Wang, N.\* (2024). Efficacy of the automated mechanical Repositioning chairs treatment for patients with benign paroxysmal positional vertigo. *The Journal of Laryngology and Otology*, in press.
 * [2] **Zhu, K.** and Liu, H.\* (2024). Rejoinder to "On exact randomization-based covariate-adjusted confidence intervals" by Jacob Fiksel. *Biometrics*, in press. [[paper]](https://drive.google.com/file/d/1ly5NljceM1yqq3VlHg27XUzNv-MQ1olL/view?usp=sharing) [[code]](https://github.com/ke-zhu/rbci) [[slides]](https://drive.google.com/file/d/1hu5l0LgZRkYzl233Tw5r5dMmDAha7GJa/view?usp=share_link)
-* [3] **Zhu, K.** and Liu, H.\* (2023). Pair-switching rerandomization. *Biometrics*, 79(3): 2127-2142.
+* [3] **Zhu, K.** and Liu, H.\* (2023). Pair-switching rerandomization. *Biometrics*, 79(3): 2127-2142. [[paper]](https://drive.google.com/file/d/1bLl25lay2Hu_OV_1QPIkAoeY7hfmhe_E/view?usp=sharing)
 * [4] **Zhu, K.** and Liu, H.\* (2022). Confidence intervals for parameters in high-dimensional sparse vector autoregression. *Computational Statistics & Data Analysis*, 168: 107383.
 * [5] Hu, C., **Zhu, K.**, Huang, K., Yu, B., Jiang, W., Peng, K., and Wang, F.\* (2022). Using natural intervention to promote subjective well-being of essential workers during public-health crises: A Study during COVID-19 pandemic. *Journal of Environmental Psychology*, 79: 101745.
 * [6] Zhang, H., **Zhu, K.**, Wang, J., and Lv, X.\* (2022). The use of a new classification in endovascular treatment of dural arteriovenous fistulas. *Neuroscience Informatics*, 2(2): 100047.
