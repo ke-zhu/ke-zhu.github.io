@@ -30,5 +30,5 @@ Publications
 Manuscripts
 ======
 * [6] **Zhu, K.**, Liu, H.\*, and Yang, Y.\* (2024+). Design-based theory for Lasso adjustment in randomized block experiments and rerandomized experiments. *Journal of Business & Economic Statistics*, revision submitted.
-* [7] Yu, H., **Zhu, K.**\*, and Liu, H. (2024+). Sharp variance estimator and causal bootstrap in stratified randomized experiments. Submitted.
+* [7] Yu, H., **Zhu, K.**\*, and Liu, H. (2024+). [Sharp variance estimator and causal bootstrap in stratified randomized experiments](https://arxiv.org/abs/2401.16667). Submitted.
 
