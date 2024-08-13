@@ -20,11 +20,11 @@ Publications
 ======
 (\* indicates corresponding author)
 
-* [1] **Zhu, K.** and Liu, H.\* (2024). [Rejoinder to Reader Reaction “On exact randomization-based covariate-adjusted confidence intervals” by Jacob Fiksel.](https://doi.org/10.1093/biomtc/ujae052) *Biometrics*, 80(2): ujae052. [[paper]](https://drive.google.com/file/d/1RdVO3pPhyJBwwUyP2ZNSfPoC8_MZGmXy/view?usp=sharing) [[code]](https://github.com/ke-zhu/rbci) [[slides]](https://drive.google.com/file/d/1hu5l0LgZRkYzl233Tw5r5dMmDAha7GJa/view?usp=share_link)
-* [2] **Zhu, K.** and Liu, H.\* (2023). [Pair-switching rerandomization.](https://doi.org/10.1111/biom.13712) *Biometrics*, 79(3): 2127-2142. [[paper]](https://drive.google.com/file/d/1bLl25lay2Hu_OV_1QPIkAoeY7hfmhe_E/view?usp=sharing) [[code]](https://drive.google.com/file/d/1CFmEJUT9IU-SwPqoP5QJVR4I3EcflOkE/view?usp=sharing)
-* [3] **Zhu, K.** and Liu, H.\* (2022). [Confidence intervals for parameters in high-dimensional sparse vector autoregression.](https://doi.org/10.1016/j.csda.2021.107383) *Computational Statistics & Data Analysis*, 168: 107383. [[paper]](https://drive.google.com/file/d/1fFmPL_tYdyxxLtkCf4xywvqUnP07QDK3/view?usp=sharing)
-* [4] Hu, C., **Zhu, K.**, Huang, K., Yu, B., Jiang, W., Peng, K., and Wang, F.\* (2022). Using natural intervention to promote subjective well-being of essential workers during public-health crises: A Study during COVID-19 pandemic. *Journal of Environmental Psychology*, 79: 101745.
-* [5] Zhang, H., **Zhu, K.**, Wang, J., and Lv, X.\* (2022). The use of a new classification in endovascular treatment of dural arteriovenous fistulas. *Neuroscience Informatics*, 2(2): 100047.
+* [1] **Zhu, K.** and Liu, H.\* (2024). [Rejoinder to Reader Reaction “On exact randomization-based covariate-adjusted confidence intervals” by Jacob Fiksel.](https://doi.org/10.1093/biomtc/ujae052) *Biometrics*, 80(2): ujae052. [[code]](https://github.com/ke-zhu/rbci) [[slides]](https://drive.google.com/file/d/1hu5l0LgZRkYzl233Tw5r5dMmDAha7GJa/view?usp=share_link)
+* [2] **Zhu, K.** and Liu, H.\* (2023). [Pair-switching rerandomization.](https://doi.org/10.1111/biom.13712) *Biometrics*, 79(3): 2127-2142. [[arxiv]](https://arxiv.org/abs/2103.13051) [[code]](https://drive.google.com/file/d/1CFmEJUT9IU-SwPqoP5QJVR4I3EcflOkE/view?usp=sharing)
+* [3] **Zhu, K.** and Liu, H.\* (2022). [Confidence intervals for parameters in high-dimensional sparse vector autoregression.](https://doi.org/10.1016/j.csda.2021.107383) *Computational Statistics & Data Analysis*, 168: 107383. [[arxiv]](https://arxiv.org/abs/2009.09462)
+* [4] Hu, C., **Zhu, K.**, Huang, K., Yu, B., Jiang, W., Peng, K., and Wang, F.\* (2022). [Using natural intervention to promote subjective well-being of essential workers during public-health crises: A Study during COVID-19 pandemic.](https://doi.org/10.1016/j.jenvp.2021.101745) *Journal of Environmental Psychology*, 79: 101745.
+* [5] Zhang, H., **Zhu, K.**, Wang, J., and Lv, X.\* (2022). [The use of a new classification in endovascular treatment of dural arteriovenous fistulas.](https://doi.org/10.1016/j.neuri.2022.100047) *Neuroscience Informatics*, 2(2): 100047.
 
 
 Manuscripts
