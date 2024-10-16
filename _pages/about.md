@@ -33,6 +33,5 @@ Manuscripts
 * [8] **Zhu, K.**, Yang, S.\*, and Wang, X. (2024+). [Enhancing Statistical Validity and Power in Hybrid Controlled Trials: A Randomization Inference Approach with Conformal Selective Borrowing.](https://arxiv.org/abs/2410.11713) Submitted. [[package]](https://github.com/ke-zhu/intFRT)
 
 
-
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=320&t=tt&d=6azBu2HkvZX9yIT4v8xF7VXA7w7dy-5qi5E20N5j5Js&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
 
