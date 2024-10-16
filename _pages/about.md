@@ -31,6 +31,7 @@ Publications
 Manuscripts
 ======
 * [7] Yu, H., **Zhu, K.**\*, and Liu, H. (2024+). [Sharp variance estimator and causal bootstrap in stratified randomized experiments.](https://arxiv.org/abs/2401.16667) Submitted.
+* [8] **Zhu, K.**, Yang, S.\*, and Wang, X. (2024+). [Enhancing Statistical Validity and Power in Hybrid Controlled Trials: A Randomization Inference Approach with Conformal Selective Borrowing.](https://arxiv.org/abs/2410.11713) Submitted.
 
 
 
