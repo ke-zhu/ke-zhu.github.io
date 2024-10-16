@@ -27,7 +27,6 @@ Publications
 * [5] Hu, C., **Zhu, K.**, Huang, K., Yu, B., Jiang, W., Peng, K., and Wang, F.\* (2022). [Using natural intervention to promote subjective well-being of essential workers during public-health crises: A Study during COVID-19 pandemic.](https://doi.org/10.1016/j.jenvp.2021.101745) *Journal of Environmental Psychology*, 79: 101745.
 * [6] Zhang, H., **Zhu, K.**, Wang, J., and Lv, X.\* (2022). [The use of a new classification in endovascular treatment of dural arteriovenous fistulas.](https://doi.org/10.1016/j.neuri.2022.100047) *Neuroscience Informatics*, 2(2): 100047.
 
-
 Manuscripts
 ======
 * [7] Yu, H., **Zhu, K.**\*, and Liu, H. (2024+). [Sharp variance estimator and causal bootstrap in stratified randomized experiments.](https://arxiv.org/abs/2401.16667) Submitted.
