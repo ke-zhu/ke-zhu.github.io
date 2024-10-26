@@ -24,13 +24,18 @@ Publications
 * [2] **Zhu, K.** and Liu, H.\* (2024). [Rejoinder to Reader Reaction “On exact randomization-based covariate-adjusted confidence intervals” by Jacob Fiksel.](https://doi.org/10.1093/biomtc/ujae052) *Biometrics*, 80(2): ujae052. [[code]](https://github.com/ke-zhu/rbci) [[slides]](https://drive.google.com/file/d/1hu5l0LgZRkYzl233Tw5r5dMmDAha7GJa/view?usp=share_link)
 * [3] **Zhu, K.** and Liu, H.\* (2023). [Pair-switching rerandomization.](https://doi.org/10.1111/biom.13712) *Biometrics*, 79(3): 2127-2142. [[arxiv]](https://arxiv.org/abs/2103.13051) [[code]](https://drive.google.com/file/d/1CFmEJUT9IU-SwPqoP5QJVR4I3EcflOkE/view?usp=sharing)
 * [4] **Zhu, K.** and Liu, H.\* (2022). [Confidence intervals for parameters in high-dimensional sparse vector autoregression.](https://doi.org/10.1016/j.csda.2021.107383) *Computational Statistics & Data Analysis*, 168: 107383. [[arxiv]](https://arxiv.org/abs/2009.09462)
-* [5] Hu, C., **Zhu, K.**, Huang, K., Yu, B., Jiang, W., Peng, K., and Wang, F.\* (2022). [Using natural intervention to promote subjective well-being of essential workers during public-health crises: A Study during COVID-19 pandemic.](https://doi.org/10.1016/j.jenvp.2021.101745) *Journal of Environmental Psychology*, 79: 101745.
-* [6] Zhang, H., **Zhu, K.**, Wang, J., and Lv, X.\* (2022). [The use of a new classification in endovascular treatment of dural arteriovenous fistulas.](https://doi.org/10.1016/j.neuri.2022.100047) *Neuroscience Informatics*, 2(2): 100047.
+
+
+Collaborative Publications
+======
+* [5] Xia, F., **Zhu, K.**, Ren, Y., and Wang, N.\* (2024). [Efficacy of the automated mechanical repositioning chairs treatment for patients with benign paroxysmal positional vertigo.](https://www.cambridge.org/core/journals/journal-of-laryngology-and-otology/article/efficacy-of-the-automated-mechanical-repositioning-chairs-treatment-for-patients-with-benign-paroxysmal-positional-vertigo/F0849A523F950E5A5195324EB1D75833) *The Journal of Laryngology and Otology*, in press.
+* [6] Hu, C., **Zhu, K.**, Huang, K., Yu, B., Jiang, W., Peng, K., and Wang, F.\* (2022). [Using natural intervention to promote subjective well-being of essential workers during public-health crises: A Study during COVID-19 pandemic.](https://doi.org/10.1016/j.jenvp.2021.101745) *Journal of Environmental Psychology*, 79: 101745.
+* [7] Zhang, H., **Zhu, K.**, Wang, J., and Lv, X.\* (2022). [The use of a new classification in endovascular treatment of dural arteriovenous fistulas.](https://doi.org/10.1016/j.neuri.2022.100047) *Neuroscience Informatics*, 2(2): 100047.
 
 Manuscripts
 ======
-* [7] Yu, H., **Zhu, K.**\*, and Liu, H. (2024+). [Sharp variance estimator and causal bootstrap in stratified randomized experiments.](https://arxiv.org/abs/2401.16667) Submitted.
-* [8] **Zhu, K.**, Yang, S.\*, and Wang, X. (2024+). [Enhancing Statistical Validity and Power in Hybrid Controlled Trials: A Randomization Inference Approach with Conformal Selective Borrowing.](https://arxiv.org/abs/2410.11713) Submitted. [[package]](https://github.com/ke-zhu/intFRT)
+* [8] Yu, H., **Zhu, K.**\*, and Liu, H. (2024+). [Sharp variance estimator and causal bootstrap in stratified randomized experiments.](https://arxiv.org/abs/2401.16667) Submitted.
+* [9] **Zhu, K.**, Yang, S.\*, and Wang, X. (2024+). [Enhancing Statistical Validity and Power in Hybrid Controlled Trials: A Randomization Inference Approach with Conformal Selective Borrowing.](https://arxiv.org/abs/2410.11713) Submitted. [[package]](https://github.com/ke-zhu/intFRT)
 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=320&t=tt&d=6azBu2HkvZX9yIT4v8xF7VXA7w7dy-5qi5E20N5j5Js&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
