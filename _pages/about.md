@@ -30,7 +30,7 @@ Publications
 * [5] **Zhu, K.** and Liu, H.\* (2023). [Pair-switching rerandomization.](https://doi.org/10.1111/biom.13712) *Biometrics*, 79(3): 2127-2142. [[arxiv]](https://arxiv.org/abs/2103.13051) [[code]](https://drive.google.com/file/d/1CFmEJUT9IU-SwPqoP5QJVR4I3EcflOkE/view?usp=sharing)
 * [6] **Zhu, K.** and Liu, H.\* (2022). [Confidence intervals for parameters in high-dimensional sparse vector autoregression.](https://doi.org/10.1016/j.csda.2021.107383) *Computational Statistics & Data Analysis*, 168: 107383. [[arxiv]](https://arxiv.org/abs/2009.09462)
 
-Collaborative Publications
+Interdisciplinary Collaborations
 ======
 * [7] Xia, F., **Zhu, K.**, Ren, Y., and Wang, N.\* (2024). [Efficacy of the automated mechanical repositioning chairs treatment for patients with benign paroxysmal positional vertigo.](https://www.cambridge.org/core/journals/journal-of-laryngology-and-otology/article/efficacy-of-the-automated-mechanical-repositioning-chairs-treatment-for-patients-with-benign-paroxysmal-positional-vertigo/F0849A523F950E5A5195324EB1D75833) *The Journal of Laryngology and Otology*, in press.
 * [8] Hu, C., **Zhu, K.**, Huang, K., Yu, B., Jiang, W., Peng, K., and Wang, F.\* (2022). [Using natural intervention to promote subjective well-being of essential workers during public-health crises: A Study during COVID-19 pandemic.](https://doi.org/10.1016/j.jenvp.2021.101745) *Journal of Environmental Psychology*, 79: 101745.
