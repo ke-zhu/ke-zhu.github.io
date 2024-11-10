@@ -27,8 +27,8 @@ Publications
 ======
 * [3] **Zhu, K.**, Liu, H.\*, and Yang, Y.\* (2024). [Design-based theory for Lasso adjustment in randomized block experiments and rerandomized experiments.](https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2403381) *Journal of Business & Economic Statistics*, in press. [[arxiv]](https://arxiv.org/abs/2109.11271)
 * [4] **Zhu, K.** and Liu, H.\* (2024). [Rejoinder to Reader Reaction “On exact randomization-based covariate-adjusted confidence intervals” by Jacob Fiksel.](https://doi.org/10.1093/biomtc/ujae052) *Biometrics*, 80(2): ujae052. [[code]](https://github.com/ke-zhu/rbci) [[slides]](https://drive.google.com/file/d/1hu5l0LgZRkYzl233Tw5r5dMmDAha7GJa/view?usp=share_link)
-* [5] **Zhu, K.** and Liu, H.\* (2023). [Pair-switching rerandomization.](https://doi.org/10.1111/biom.13712) *Biometrics*, 79(3): 2127-2142. [[arxiv]](https://arxiv.org/abs/2103.13051) [[code]](https://drive.google.com/file/d/1CFmEJUT9IU-SwPqoP5QJVR4I3EcflOkE/view?usp=sharing)
-* [6] **Zhu, K.** and Liu, H.\* (2022). [Confidence intervals for parameters in high-dimensional sparse vector autoregression.](https://doi.org/10.1016/j.csda.2021.107383) *Computational Statistics & Data Analysis*, 168: 107383. [[arxiv]](https://arxiv.org/abs/2009.09462)
+* [5] **Zhu, K.** and Liu, H.\* (2023). [Pair-switching rerandomization.](https://doi.org/10.1111/biom.13712) *Biometrics*, 79(3): 2127-2142. [[code]](https://drive.google.com/file/d/1CFmEJUT9IU-SwPqoP5QJVR4I3EcflOkE/view?usp=sharing)
+* [6] **Zhu, K.** and Liu, H.\* (2022). [Confidence intervals for parameters in high-dimensional sparse vector autoregression.](https://doi.org/10.1016/j.csda.2021.107383) *Computational Statistics & Data Analysis*, 168: 107383.
 
 Interdisciplinary Collaborations
 ======
