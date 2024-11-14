@@ -21,7 +21,7 @@ Technical Reports
 (\* indicates co-first author; † indicates corresponding author)
 
 * [1] **Zhu, K.**, Yang, S.†, and Wang, X. (2024+). [Enhancing statistical validity and power in hybrid controlled trials: A randomization inference approach with conformal selective borrowing.](https://arxiv.org/abs/2410.11713) Submitted. [[package]](https://github.com/ke-zhu/intFRT)
-* [2] Han, T.\*, **Zhu, K.**\*, Liu, H.†, and Deng, K.† (2024+). Imputation-based randomization tests for randomized experiments with interference. Submitted. [[package]](https://github.com/htx113/imprt)
+* [2] Han, T.\*, **Zhu, K.**\*, Liu, H.†, and Deng, K.† (2024+). [Imputation-based randomization tests for randomized experiments with interference.](https://arxiv.org/abs/2411.08352) Submitted. [[package]](https://github.com/htx113/imprt)
 * [3] Yu, H., **Zhu, K.**†, and Liu, H. (2024+). [Sharp variance estimator and causal bootstrap in stratified randomized experiments.](https://arxiv.org/abs/2401.16667) Submitted.
 
 Publications
