@@ -20,22 +20,26 @@ Technical Reports
 ======
 (\* indicates co-first author; † indicates corresponding author)
 
-* [1] **Zhu, K.**, Yang, S.†, and Wang, X. (2024+). [Enhancing statistical validity and power in hybrid controlled trials: A randomization inference approach with conformal selective borrowing.](https://arxiv.org/abs/2410.11713) Submitted. [[package]](https://github.com/ke-zhu/intFRT)
-* [2] Han, T.\*, **Zhu, K.**\*, Liu, H.†, and Deng, K.† (2024+). [Imputation-based randomization tests for randomized experiments with interference.](https://arxiv.org/abs/2411.08352) Submitted. [[package]](https://github.com/htx113/imprt)
-* [3] Yu, H., **Zhu, K.**†, and Liu, H. (2024+). [Sharp variance estimator and causal bootstrap in stratified randomized experiments.](https://arxiv.org/abs/2401.16667) Submitted.
+* [1] **Zhu, K.**\*, Chu, J.\*, Lipkovich, I., Ye, W., & Yang, S.† (2025). Doubly robust fusion of high-dimensional treatments for policy learning. Submitted.
+* [2] Liu, Y., Levis, A. W., **Zhu, K.**, Yang, S., Gilbert, P. B., & Han, L.† (2025). [Targeted data fusion for causal survival analysis under distribution shift.](https://arxiv.org/abs/2501.18798) Submitted.
+* [3] Liu, Y., **Zhu, K.**, Han, L., & Yang, S.† (2025). [COADVISE: Covariate adjustment with variable selection and missing data imputation in randomized controlled trials.](https://arxiv.org/abs/2501.08945) Submitted. [[Package]](https://github.com/yiliu1998/Coadvise)
+* [4] **Zhu, K.**, Yang, S.†, & Wang, X. (2024+). [Enhancing statistical validity and power in hybrid controlled trials: A randomization inference approach with conformal selective borrowing.](https://arxiv.org/abs/2410.11713) Submitted. [[Package]](https://github.com/ke-zhu/intFRT)
+* [5] Han, T.\*, **Zhu, K.**\*, Liu, H.†, & Deng, K.† (2024+). [Imputation-based randomization tests for randomized experiments with interference.](https://arxiv.org/abs/2411.08352) Submitted. [[Package]](https://github.com/htx113/imprt)
+* [6] Yu, H., **Zhu, K.**†, & Liu, H. (2024+). [Sharp variance estimator and causal bootstrap in stratified randomized experiments.](https://arxiv.org/abs/2401.16667) In revision.
 
 Publications
 ======
-* [4] **Zhu, K.**, Liu, H.†, and Yang, Y.† (2024). [Design-based theory for Lasso adjustment in randomized block experiments and rerandomized experiments.](https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2403381) *Journal of Business & Economic Statistics*, in press. [[arxiv]](https://arxiv.org/abs/2109.11271)
-* [5] **Zhu, K.** and Liu, H.† (2024). [Rejoinder to Reader Reaction “On exact randomization-based covariate-adjusted confidence intervals” by Jacob Fiksel.](https://doi.org/10.1093/biomtc/ujae052) *Biometrics*, 80(2): ujae052. [[code]](https://github.com/ke-zhu/rbci) [[slides]](https://drive.google.com/file/d/1hu5l0LgZRkYzl233Tw5r5dMmDAha7GJa/view?usp=share_link)
-* [6] **Zhu, K.** and Liu, H.† (2023). [Pair-switching rerandomization.](https://doi.org/10.1111/biom.13712) *Biometrics*, 79(3): 2127-2142. [[code]](https://drive.google.com/file/d/1CFmEJUT9IU-SwPqoP5QJVR4I3EcflOkE/view?usp=sharing)
-* [7] **Zhu, K.** and Liu, H.† (2022). [Confidence intervals for parameters in high-dimensional sparse vector autoregression.](https://doi.org/10.1016/j.csda.2021.107383) *Computational Statistics & Data Analysis*, 168: 107383.
+* [7] **Zhu, K.**, Liu, H.†, & Yang, Y.† (2024). [Design-based theory for lasso adjustment in randomized block experiments and rerandomized experiments.](https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2403381) *Journal of Business & Economic Statistics*, in press. [[ArXiv]](https://arxiv.org/abs/2109.11271)
+* [8] **Zhu, K.** & Liu, H.† (2024). [Rejoinder to reader reaction “On exact randomization-based covariate-adjusted confidence intervals” by Jacob Fiksel.](https://doi.org/10.1093/biomtc/ujae052) *Biometrics*, 80(2): ujae052. [[Code]](https://github.com/ke-zhu/rbci) [[Slides]](https://drive.google.com/file/d/1hu5l0LgZRkYzl233Tw5r5dMmDAha7GJa/view?usp=share_link)
+* [9] **Zhu, K.** & Liu, H.† (2023). [Pair-switching rerandomization.](https://doi.org/10.1111/biom.13712) *Biometrics*, 79(3): 2127-2142. [[Code]](https://drive.google.com/file/d/1CFmEJUT9IU-SwPqoP5QJVR4I3EcflOkE/view?usp=sharing)
+* [10] **Zhu, K.** & Liu, H.† (2022). [Confidence intervals for parameters in high-dimensional sparse vector autoregression.](https://doi.org/10.1016/j.csda.2021.107383) *Computational Statistics & Data Analysis*, 168: 107383.
 
 Interdisciplinary Collaborations
 ======
-* [8] Xia, F., **Zhu, K.**, Ren, Y., and Wang, N.† (2024). [Efficacy of the automated mechanical repositioning chairs treatment for patients with benign paroxysmal positional vertigo.](https://www.cambridge.org/core/journals/journal-of-laryngology-and-otology/article/efficacy-of-the-automated-mechanical-repositioning-chairs-treatment-for-patients-with-benign-paroxysmal-positional-vertigo/F0849A523F950E5A5195324EB1D75833) *The Journal of Laryngology and Otology*, in press.
-* [9] Hu, C., **Zhu, K.**, Huang, K., Yu, B., Jiang, W., Peng, K., and Wang, F.† (2022). [Using natural intervention to promote subjective well-being of essential workers during public-health crises: A Study during COVID-19 pandemic.](https://doi.org/10.1016/j.jenvp.2021.101745) *Journal of Environmental Psychology*, 79: 101745.
-* [10] Zhang, H., **Zhu, K.**, Wang, J., and Lv, X.† (2022). [The use of a new classification in endovascular treatment of dural arteriovenous fistulas.](https://doi.org/10.1016/j.neuri.2022.100047) *Neuroscience Informatics*, 2(2): 100047.
+* [11] Xia, F., **Zhu, K.**, Ren, Y., & Wang, N.† (2024). [Efficacy of the automated mechanical repositioning chairs treatment for patients with benign paroxysmal positional vertigo.](https://www.cambridge.org/core/journals/journal-of-laryngology-and-otology/article/efficacy-of-the-automated-mechanical-repositioning-chairs-treatment-for-patients-with-benign-paroxysmal-positional-vertigo/F0849A523F950E5A5195324EB1D75833) *The Journal of Laryngology and Otology*, in press.
+* [12] Hu, C., **Zhu, K.**, Huang, K., Yu, B., Jiang, W., Peng, K., & Wang, F.† (2022). [Using natural intervention to promote subjective well-being of essential workers during public-health crises: A study during the COVID-19 pandemic.](https://doi.org/10.1016/j.jenvp.2021.101745) *Journal of Environmental Psychology*, 79: 101745.
+* [13] Zhang, H., **Zhu, K.**, Wang, J., & Lv, X.† (2022). [The use of a new classification in endovascular treatment of dural arteriovenous fistulas.](https://doi.org/10.1016/j.neuri.2022.100047) *Neuroscience Informatics*, 2(2): 100047.
+
 
 
 
