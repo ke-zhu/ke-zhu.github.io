@@ -20,7 +20,7 @@ Technical Reports
 ======
 (\* indicates co-first author; † indicates corresponding author)
 
-* [1] **Zhu, K.**\*, Chu, J.\*, Lipkovich, I., Ye, W., & Yang, S.† (2025). Doubly robust fusion of high-dimensional treatments for policy learning. Submitted.
+* [1] **Zhu, K.**\*, Chu, J.\*, Lipkovich, I., Ye, W., & Yang, S.† (2025). Doubly robust fusion of many treatments for policy learning. Submitted.
 * [2] Liu, Y., Levis, A. W., **Zhu, K.**, Yang, S., Gilbert, P. B., & Han, L.† (2025). [Targeted data fusion for causal survival analysis under distribution shift.](https://arxiv.org/abs/2501.18798) Submitted.
 * [3] Liu, Y., **Zhu, K.**, Han, L., & Yang, S.† (2025). [COADVISE: Covariate adjustment with variable selection in randomized controlled trials.](https://arxiv.org/abs/2501.08945) Submitted. [[Package]](https://github.com/yiliu1998/Coadvise)
 * [4] **Zhu, K.**, Yang, S.†, & Wang, X. (2024+). [Enhancing statistical validity and power in hybrid controlled trials: A randomization inference approach with conformal selective borrowing.](https://arxiv.org/abs/2410.11713) Submitted. [[Slides]](https://drive.google.com/file/d/1LkTDY12CjUL0BAGQAt4JmOBlgk-MN3Ix/view?usp=sharing) [[Poster]](https://drive.google.com/file/d/1g5vFT6irtPWFQWwh6AGe-iYCvMF4z0B2/view?usp=share_link) [[Package]](https://github.com/ke-zhu/intFRT)
