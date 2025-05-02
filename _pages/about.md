@@ -20,7 +20,7 @@ Technical Reports
 ======
 († indicates co-first author; \* indicates corresponding author)
 
-* [1] Liu, J.†, **Zhu, K.**†, Yang, S., & Wang, X.\* (2025). Robust estimation and inference in hybrid controlled trials for binary outcomes: A case study on non-small cell lung cancer. Submitted.
+* [1] Liu, J.†, **Zhu, K.**†, Yang, S., & Wang, X.\* (2025). [Robust estimation and inference in hybrid controlled trials for binary outcomes: A case study on non-small cell lung cancer](https://arxiv.org/abs/2505.00217). Submitted.
 * [2] **Zhu, K.**†, Chu, J.†, Lipkovich, I., Ye, W., & Yang, S.\* (2025). Doubly robust fusion of many treatments for policy learning. Submitted.
 * [3] Liu, Y., Levis, A. W., **Zhu, K.**, Yang, S., Gilbert, P. B., & Han, L.\* (2025). [Targeted data fusion for causal survival analysis under distribution shift.](https://arxiv.org/abs/2501.18798) Submitted.
 * [4] Liu, Y., **Zhu, K.**, Han, L., & Yang, S.\* (2025). [COADVISE: Covariate adjustment with variable selection in randomized controlled trials.](https://arxiv.org/abs/2501.08945) Submitted. [[Package]](https://github.com/yiliu1998/Coadvise)
