@@ -21,6 +21,8 @@ Education
 
 Publications
 ======
+(† indicates co-first author; \* indicates corresponding author)
+
 * [1] **Zhu, K.**†, Chu, J.†, Lipkovich, I., Ye, W., & Yang, S.\* (2025). Doubly robust fusion of many treatments for policy learning. *Proceedings of the 42nd International Conference on Machine Learning (ICML), PMLR*, in press.
 * [2] **Zhu, K.**, Yang, S.\*, & Wang, X. (2025). [Enhancing statistical validity and power in hybrid controlled trials: A randomization inference approach with conformal selective borrowing.](https://arxiv.org/abs/2410.11713) *Proceedings of the 42nd International Conference on Machine Learning (ICML), PMLR*, in press. [[Slides]](https://drive.google.com/file/d/1LkTDY12CjUL0BAGQAt4JmOBlgk-MN3Ix/view?usp=sharing) [[Poster]](https://drive.google.com/file/d/1g5vFT6irtPWFQWwh6AGe-iYCvMF4z0B2/view?usp=share_link) [[Package]](https://github.com/ke-zhu/intFRT)
 * [3] **Zhu, K.**, Liu, H.\*, & Yang, Y.\* (2024). [Design-based theory for lasso adjustment in randomized block experiments and rerandomized experiments.](https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2403381) *Journal of Business & Economic Statistics*, in press. [[Paper]](https://drive.google.com/file/d/1CG2LFFoNklAKZGLoSOexTEjpcvv6VI_c/view?usp=share_link) [[Slides]](https://drive.google.com/file/d/1U_IFeQeBr02D8ypQrqGq7UoJ7Ffw8huE/view?usp=share_link)
@@ -30,13 +32,11 @@ Publications
 
 Submitted Paper
 ======
-(† indicates co-first author; \* indicates corresponding author)
-
 * [7] Liu, J.†, **Zhu, K.**†, Yang, S., & Wang, X.\* (2025). [Robust estimation and inference in hybrid controlled trials for binary outcomes: A case study on non-small cell lung cancer](https://arxiv.org/abs/2505.00217). Submitted.
-* [8] Liu, Y., Levis, A. W., **Zhu, K.**, Yang, S., Gilbert, P. B., & Han, L.\* (2025). [Targeted data fusion for causal survival analysis under distribution shift.](https://arxiv.org/abs/2501.18798) Submitted.
-* [9] Liu, Y., **Zhu, K.**, Han, L., & Yang, S.\* (2025). [COADVISE: Covariate adjustment with variable selection in randomized controlled trials.](https://arxiv.org/abs/2501.08945) Submitted. [[Package]](https://github.com/yiliu1998/Coadvise)
-* [10] Han, T.†, **Zhu, K.**†, Liu, H.\*, & Deng, K.\* (2024). [Imputation-based randomization tests for randomized experiments with interference.](https://arxiv.org/abs/2411.08352) Submitted. [[Package]](https://github.com/htx113/imprt)
-* [11] Yu, H., **Zhu, K.**\*, & Liu, H. (2024). [Sharp variance estimator and causal bootstrap in stratified randomized experiments.](https://arxiv.org/abs/2401.16667) Revision submitted. [[Package]](https://github.com/yu-hao-yang/CausalBootstrap)
+* [8] Han, T.†, **Zhu, K.**†, Liu, H.\*, & Deng, K.\* (2024). [Imputation-based randomization tests for randomized experiments with interference.](https://arxiv.org/abs/2411.08352) Submitted. [[Package]](https://github.com/htx113/imprt)
+* [9] Yu, H., **Zhu, K.**\*, & Liu, H. (2024). [Sharp variance estimator and causal bootstrap in stratified randomized experiments.](https://arxiv.org/abs/2401.16667) Revision submitted. [[Package]](https://github.com/yu-hao-yang/CausalBootstrap)
+* [10] Liu, Y., Levis, A. W., **Zhu, K.**, Yang, S., Gilbert, P. B., & Han, L.\* (2025). [Targeted data fusion for causal survival analysis under distribution shift.](https://arxiv.org/abs/2501.18798) Submitted.
+* [11] Liu, Y., **Zhu, K.**, Han, L., & Yang, S.\* (2025). [COADVISE: Covariate adjustment with variable selection in randomized controlled trials.](https://arxiv.org/abs/2501.08945) Submitted. [[Package]](https://github.com/yiliu1998/Coadvise)
 
 Interdisciplinary Collaborations
 ======
