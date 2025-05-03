@@ -57,7 +57,7 @@ Interdisciplinary Collaborations
 
 [14] Zhang, H., **Zhu, K.**, Wang, J., & Lv, X.\* (2022). [The use of a new classification in endovascular treatment of dural arteriovenous fistulas.](https://doi.org/10.1016/j.neuri.2022.100047) *Neuroscience Informatics*, 2(2): 100047.
 
-[15] **Zhu, K.**†, Jiang, Y.†, Wang, X., Shi, Z., Yang, C.\*, Liu, H.\*, \& Deng, K.\* (2022). A new framework of customized production product certification based on the combination of domain knowledge and data inference (in Chinese). *Chinese Journal of Applied Probability and Statistics*, 38(4), 581--602.
+[15] **Zhu, K.**†, Jiang, Y.†, Wang, X., Shi, Z., Yang, C.\*, Liu, H.\*, & Deng, K.\* (2022). [A new framework of customized production product certification based on the combination of domain knowledge and data inference (in Chinese).](https://aps.ecnu.edu.cn/cn/article/id/9522) *Chinese Journal of Applied Probability and Statistics*, 38(4), 581--602.
 
 
 
