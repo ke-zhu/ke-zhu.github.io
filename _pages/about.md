@@ -23,7 +23,7 @@ Publications
 ======
 († indicates co-first author; \* indicates corresponding author)
 
-[1] **Zhu, K.**†, Chu, J.†, Lipkovich, I., Ye, W., & Yang, S.\* (2025). Doubly robust fusion of many treatments for policy learning. *Proceedings of the 42nd International Conference on Machine Learning (ICML)*, PMLR, in press.
+[1] **Zhu, K.**†, Chu, J.†, Lipkovich, I., Ye, W., & Yang, S.\* (2025). [Doubly robust fusion of many treatments for policy learning.](http://arxiv.org/abs/2505.08092) *Proceedings of the 42nd International Conference on Machine Learning (ICML)*, PMLR, in press.
 
 [2] **Zhu, K.**, Yang, S.\*, & Wang, X. (2025). [Enhancing statistical validity and power in hybrid controlled trials: A randomization inference approach with conformal selective borrowing.](https://arxiv.org/abs/2410.11713) *Proceedings of the 42nd International Conference on Machine Learning (ICML)*, PMLR, in press. [[Slides]](https://drive.google.com/file/d/1LkTDY12CjUL0BAGQAt4JmOBlgk-MN3Ix/view?usp=sharing) [[Poster]](https://drive.google.com/file/d/1g5vFT6irtPWFQWwh6AGe-iYCvMF4z0B2/view?usp=share_link) [[Package]](https://github.com/ke-zhu/intFRT)
 
