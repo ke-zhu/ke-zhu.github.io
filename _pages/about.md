@@ -23,7 +23,7 @@ Publications
 ======
 († indicates co-first author; \* indicates corresponding author)
 
-[1] Yu, H., **Zhu, K.**\*, & Liu, H. (2024). [Sharp variance estimator and causal bootstrap in stratified randomized experiments.](https://arxiv.org/abs/2401.16667) *Statistics in Medicine*, in press. [[Package]](https://github.com/yu-hao-yang/CausalBootstrap)
+[1] Yu, H., **Zhu, K.**\*, & Liu, H. (2025). [Sharp variance estimator and causal bootstrap in stratified randomized experiments.](https://arxiv.org/abs/2401.16667) *Statistics in Medicine*, in press. [[Package]](https://github.com/yu-hao-yang/CausalBootstrap)
 
 [2] **Zhu, K.**†, Chu, J.†, Lipkovich, I., Ye, W., & Yang, S.\* (2025). [Doubly robust fusion of many treatments for policy learning.](http://arxiv.org/abs/2505.08092) *Proceedings of the 42nd International Conference on Machine Learning (ICML)*, PMLR, in press.
 
