@@ -37,7 +37,7 @@ Publications
 
 [7] **Zhu, K.** & Liu, H.\* (2022). [Confidence intervals for parameters in high-dimensional sparse vector autoregression.](https://doi.org/10.1016/j.csda.2021.107383) *Computational Statistics & Data Analysis*, 168: 107383. [[Paper]](https://drive.google.com/file/d/1EIu74F-MQtSpYKt_sh6d15FKKShr9c5w/view?usp=sharing)
 
-Submitted Paper
+Submitted Papers
 ======
 
 [8] Liu, J.†, **Zhu, K.**†, Yang, S., & Wang, X.\* (2025). [Robust estimation and inference in hybrid controlled trials for binary outcomes: A case study on non-small cell lung cancer](https://arxiv.org/abs/2505.00217). Submitted.
