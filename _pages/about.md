@@ -31,7 +31,7 @@ Publications
 
 [4] **Zhu, K.**, Liu, H.\*, & Yang, Y.\* (2024). [Design-based theory for lasso adjustment in randomized block experiments and rerandomized experiments.](https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2403381) *Journal of Business & Economic Statistics*, in press. [[Paper]](https://drive.google.com/file/d/1CG2LFFoNklAKZGLoSOexTEjpcvv6VI_c/view?usp=share_link) [[Slides]](https://drive.google.com/file/d/1U_IFeQeBr02D8ypQrqGq7UoJ7Ffw8huE/view?usp=share_link) [[Code]](https://github.com/ke-zhu/stra-rerand-lasso-code)
 
-[5] **Zhu, K.** & Liu, H.\* (2024). [Rejoinder to reader reaction “On exact randomization-based covariate-adjusted confidence intervals” by Jacob Fiksel.](https://doi.org/10.1093/biomtc/ujae052) *Biometrics*, 80(2): ujae052. [[Paper]](https://drive.google.com/file/d/1Ox9LaahfrXYHSPLYWynKGnPIW24CG68p/view?usp=share_link) [[Slides]](https://drive.google.com/file/d/1Lb3smMd7e2W-zL3MD9eGbIWp_hWZrcQv/view?usp=share_link) [[Code]](https://github.com/ke-zhu/rbci) 
+[5] **Zhu, K.** & Liu, H.\* (2024). [Rejoinder to reader reaction “On exact randomization-based covariate-adjusted confidence intervals” by Jacob Fiksel.](https://doi.org/10.1093/biomtc/ujae052) *Biometrics*, 80(2): ujae052. [[Paper]](https://drive.google.com/file/d/1Ox9LaahfrXYHSPLYWynKGnPIW24CG68p/view?usp=share_link) [[Code]](https://github.com/ke-zhu/rbci) 
 
 [6] **Zhu, K.** & Liu, H.\* (2023). [Pair-switching rerandomization.](https://doi.org/10.1111/biom.13712) *Biometrics*, 79(3): 2127-2142. [[Paper]](https://drive.google.com/file/d/18YwSCJwJ9JPYIMURraZV2mAMCdj9YH2N/view?usp=share_link) [[Code]](https://academic.oup.com/biometrics/article/79/3/2127/7513878#supplementary-data)
 
