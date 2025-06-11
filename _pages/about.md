@@ -29,7 +29,9 @@ Publications
 
 [3] **Zhu, K.**, Yang, S.\*, & Wang, X. (2025). [Enhancing statistical validity and power in hybrid controlled trials: A randomization inference approach with conformal selective borrowing.](https://arxiv.org/abs/2410.11713) *Proceedings of the 42nd International Conference on Machine Learning (ICML)*, PMLR, in press. [[Slides]](https://drive.google.com/file/d/1LkTDY12CjUL0BAGQAt4JmOBlgk-MN3Ix/view?usp=sharing) [[Poster]](https://drive.google.com/file/d/1g5vFT6irtPWFQWwh6AGe-iYCvMF4z0B2/view?usp=share_link) [[Package]](https://github.com/ke-zhu/intFRT) [[Code]](https://github.com/ke-zhu/frt-csb-code)
 
-[4] **Zhu, K.**, Liu, H.\*, & Yang, Y.\* (2024). [Design-based theory for lasso adjustment in randomized block experiments and rerandomized experiments.](https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2403381) *Journal of Business & Economic Statistics*, in press. [[Paper]](https://drive.google.com/file/d/1CG2LFFoNklAKZGLoSOexTEjpcvv6VI_c/view?usp=share_link) [[Slides]](https://drive.google.com/file/d/1U_IFeQeBr02D8ypQrqGq7UoJ7Ffw8huE/view?usp=share_link) [[Code]](https://github.com/ke-zhu/stra-rerand-lasso-code)
+\*\* Winner of the Postdoc Presentation Award at the 2025 NISS Virtual New Researchers Conference
+
+[4] **Zhu, K.**, Liu, H.\*, & Yang, Y.\* (2025). [Design-based theory for lasso adjustment in randomized block experiments and rerandomized experiments.](https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2403381) *Journal of Business & Economic Statistics*, 43(3): 544-555. [[Paper]](https://drive.google.com/file/d/1CG2LFFoNklAKZGLoSOexTEjpcvv6VI_c/view?usp=share_link) [[Slides]](https://drive.google.com/file/d/1U_IFeQeBr02D8ypQrqGq7UoJ7Ffw8huE/view?usp=share_link) [[Code]](https://github.com/ke-zhu/stra-rerand-lasso-code)
 
 [5] **Zhu, K.** & Liu, H.\* (2024). [Rejoinder to reader reaction “On exact randomization-based covariate-adjusted confidence intervals” by Jacob Fiksel.](https://doi.org/10.1093/biomtc/ujae052) *Biometrics*, 80(2): ujae052. [[Paper]](https://drive.google.com/file/d/1Ox9LaahfrXYHSPLYWynKGnPIW24CG68p/view?usp=share_link) [[Code]](https://github.com/ke-zhu/rbci) 
 
