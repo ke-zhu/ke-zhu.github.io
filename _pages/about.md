@@ -25,11 +25,13 @@ Publications
 
 [1] **Zhu, K.**, Yang, S.\*, & Wang, X. (2025). [Enhancing statistical validity and power in hybrid controlled trials: A randomization inference approach with conformal selective borrowing.](https://arxiv.org/abs/2410.11713) *Proceedings of the 42nd International Conference on Machine Learning (ICML)*, PMLR, in press. [[Slides]](https://drive.google.com/file/d/1LkTDY12CjUL0BAGQAt4JmOBlgk-MN3Ix/view?usp=sharing) [[Poster]](https://drive.google.com/file/d/1g5vFT6irtPWFQWwh6AGe-iYCvMF4z0B2/view?usp=share_link) [[Package]](https://github.com/ke-zhu/intFRT) [[Code]](https://github.com/ke-zhu/frt-csb-code)
 
-\*\* Winner of the NISS New Researcher Presentation Award at the NISS Virtual New Researchers Conference
+\*\* Winner of the [NISS New Researcher Presentation Award](https://drive.google.com/file/d/1xqWslnim2x5-BOVvAUwS2xorVk6xgZz3/view?usp=share_link) at the [NISS Virtual New Researchers Conference](https://www.niss.org/events/niss-virtual-new-researchers-conference)
+
+\*\* Winner of the NSF Travel Award for the [10th Workshop on Biostatistics and Bioinformatics](https://math.gsu.edu/yichuan/2025Workshop)
 
 [2] **Zhu, K.**†, Chu, J.†, Lipkovich, I., Ye, W., & Yang, S.\* (2025). [Doubly robust fusion of many treatments for policy learning.](http://arxiv.org/abs/2505.08092) *Proceedings of the 42nd International Conference on Machine Learning (ICML)*, PMLR, in press. [[Slides]](https://drive.google.com/file/d/1yHcip1b672bO1bz7vGCa2OmC4PBg33r2/view?usp=sharing) [[Poster]](https://drive.google.com/file/d/1CoTnqpwHshFU7k6rgy3vbGFcBC5OAgsk/view?usp=sharing)
 
-[3] Yu, H., **Zhu, K.**\*, & Liu, H. (2025). [Sharp variance estimator and causal bootstrap in stratified randomized experiments.](https://onlinelibrary.wiley.com/doi/10.1002/sim.70139) *Statistics in Medicine*, 44(13-14): e70139. [[Arxiv]](https://arxiv.org/abs/2401.16667) [[Package]](https://github.com/yu-hao-yang/CausalBootstrap)
+[3] Yu, H., **Zhu, K.**\*, & Liu, H. (2025). [Sharp variance estimator and causal bootstrap in stratified randomized experiments.](https://onlinelibrary.wiley.com/doi/10.1002/sim.70139) *Statistics in Medicine*, 44(13-14): e70139. [[Paper]](https://drive.google.com/file/d/1vvI2nRWjiAJk6tUCcZUGuNNRwSioSzjz/view?usp=share_link) [[Package]](https://github.com/yu-hao-yang/CausalBootstrap) [[Code]](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fsim.70139&file=sim70139-sup-0001-DataS1.zip)
 
 [4] **Zhu, K.**, Liu, H.\*, & Yang, Y.\* (2025). [Design-based theory for lasso adjustment in randomized block experiments and rerandomized experiments.](https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2403381) *Journal of Business & Economic Statistics*, 43(3): 544-555. [[Paper]](https://drive.google.com/file/d/1CG2LFFoNklAKZGLoSOexTEjpcvv6VI_c/view?usp=share_link) [[Slides]](https://drive.google.com/file/d/1U_IFeQeBr02D8ypQrqGq7UoJ7Ffw8huE/view?usp=share_link) [[Code]](https://github.com/ke-zhu/stra-rerand-lasso-code)
 
