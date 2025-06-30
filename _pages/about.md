@@ -12,6 +12,8 @@ I’m Ke Zhu, a Postdoctoral Research Scholar jointly affiliated with [North Car
 
 My research focuses on developing statistical methodology and theory for causal inference, with an emphasis on randomization-based inference, high-dimensional statistics, and data fusion. I aim to build robust and efficient methods for complex experimental and observational studies by integrating uncertainty-aware machine learning and heterogeneous multi-source data. Motivated by real-world challenges, my work is closely tied to applications in oncology clinical trials, labor economics, and public policy.
 
+**I am actively seeking faculty positions on the 2025–2026 academic job market. My CV is available [here](https://drive.google.com/file/d/1BUtA3dncxFTFDdb8TpAwtAVIBLXWyP4P/view?usp=share_link).**
+
 
 Education
 ======
