@@ -10,7 +10,7 @@ redirect_from:
 
 I’m Ke Zhu, a Postdoctoral Research Scholar jointly affiliated with [North Carolina State University](https://statistics.sciences.ncsu.edu/people/kzhu24/) and [Duke University](https://biostat.duke.edu/profile/ke-zhu), mentored by Dr. [Shu Yang](https://shuyang.wordpress.ncsu.edu) and Dr. [Xiaofei Wang](https://biostat.duke.edu/profile/xiaofei-wang). I received my PhD from Tsinghua University, where I was advised by Dr. [Hanzhong Liu](https://www.stat.tsinghua.edu.cn/en/info/1023/1050.htm).
 
-My research focuses on developing statistical methodology and theory for causal inference, with an emphasis on randomization-based inference, high-dimensional statistics, and data fusion. I aim to build robust and efficient methods for complex experimental and observational studies by integrating uncertainty-aware machine learning and heterogeneous multi-source data. Motivated by real-world challenges, my work is closely tied to applications in oncology clinical trials, labor economics, and public policy.
+My research focuses on developing statistical methodology and theory for causal inference, emphasizing randomization-based inference, data integration, and uncertainty-aware machine learning. Driven by real-world challenges, I apply these methods to clinical trials, precision medicine, and policy evaluation.
 
 **I am actively seeking faculty positions on the 2025–2026 academic job market. My CV is available [here](https://drive.google.com/file/d/1BUtA3dncxFTFDdb8TpAwtAVIBLXWyP4P/view?usp=share_link).**
 
