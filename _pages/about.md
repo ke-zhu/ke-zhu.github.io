@@ -54,16 +54,18 @@ Submitted Papers
 
 [11] Liu, Y., Levis, A. W., **Zhu, K.**, Yang, S., Gilbert, P. B., & Han, L.\* (2025). [Targeted data fusion for causal survival analysis under distribution shift.](https://arxiv.org/abs/2501.18798) Submitted.
 
+[12] Lu, J., Zhang, T., \& **Zhu, K.**\* (2025+) Fast rerandomization for balancing covariate in randomized experiments: A Metropolis–Hastings framework. Submitted.
+
 Interdisciplinary Collaborations
 ======
 
-[12] Xia, F., **Zhu, K.**, Ren, Y., & Wang, N.\* (2024). [Efficacy of the automated mechanical repositioning chairs treatment for patients with benign paroxysmal positional vertigo.](https://www.cambridge.org/core/journals/journal-of-laryngology-and-otology/article/efficacy-of-the-automated-mechanical-repositioning-chairs-treatment-for-patients-with-benign-paroxysmal-positional-vertigo/F0849A523F950E5A5195324EB1D75833) *The Journal of Laryngology and Otology*, in press.
+[13] Xia, F., **Zhu, K.**, Ren, Y., & Wang, N.\* (2024). [Efficacy of the automated mechanical repositioning chairs treatment for patients with benign paroxysmal positional vertigo.](https://www.cambridge.org/core/journals/journal-of-laryngology-and-otology/article/efficacy-of-the-automated-mechanical-repositioning-chairs-treatment-for-patients-with-benign-paroxysmal-positional-vertigo/F0849A523F950E5A5195324EB1D75833) *The Journal of Laryngology and Otology*, in press.
 
-[13] Hu, C., **Zhu, K.**, Huang, K., Yu, B., Jiang, W., Peng, K., & Wang, F.\* (2022). [Using natural intervention to promote subjective well-being of essential workers during public-health crises: A study during the COVID-19 pandemic.](https://doi.org/10.1016/j.jenvp.2021.101745) *Journal of Environmental Psychology*, 79: 101745.
+[14] Hu, C., **Zhu, K.**, Huang, K., Yu, B., Jiang, W., Peng, K., & Wang, F.\* (2022). [Using natural intervention to promote subjective well-being of essential workers during public-health crises: A study during the COVID-19 pandemic.](https://doi.org/10.1016/j.jenvp.2021.101745) *Journal of Environmental Psychology*, 79: 101745.
 
-[14] Zhang, H., **Zhu, K.**, Wang, J., & Lv, X.\* (2022). [The use of a new classification in endovascular treatment of dural arteriovenous fistulas.](https://doi.org/10.1016/j.neuri.2022.100047) *Neuroscience Informatics*, 2(2): 100047.
+[15] Zhang, H., **Zhu, K.**, Wang, J., & Lv, X.\* (2022). [The use of a new classification in endovascular treatment of dural arteriovenous fistulas.](https://doi.org/10.1016/j.neuri.2022.100047) *Neuroscience Informatics*, 2(2): 100047.
 
-[15] **Zhu, K.**†, Jiang, Y.†, Wang, X., Shi, Z., Yang, C.\*, Liu, H.\*, & Deng, K.\* (2022). [A new framework of customized production product certification based on the combination of domain knowledge and data inference (in Chinese).](https://aps.ecnu.edu.cn/cn/article/id/9522) *Chinese Journal of Applied Probability and Statistics*, 38(4), 581--602.
+[16] **Zhu, K.**†, Jiang, Y.†, Wang, X., Shi, Z., Yang, C.\*, Liu, H.\*, & Deng, K.\* (2022). [A new framework of customized production product certification based on the combination of domain knowledge and data inference (in Chinese).](https://aps.ecnu.edu.cn/cn/article/id/9522) *Chinese Journal of Applied Probability and Statistics*, 38(4), 581--602.
 
 
 
