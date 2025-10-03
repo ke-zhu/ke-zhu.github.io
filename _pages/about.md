@@ -50,11 +50,11 @@ Submitted Papers
 
 [9] Liu, J.†, **Zhu, K.**†, Yang, S., & Wang, X.\* (2025). [Robust estimation and inference in hybrid controlled trials for binary outcomes: A case study on non-small cell lung cancer](https://arxiv.org/abs/2505.00217). Submitted.
 
-[10] Han, T.†, **Zhu, K.**†, Liu, H.\*, & Deng, K.\* (2024). [Imputation-based randomization tests for randomized experiments with interference.](https://arxiv.org/abs/2411.08352) Submitted. [[Package]](https://github.com/htx113/imprt)
+[10] Han, T.†, **Zhu, K.**†, Liu, H.\*, & Deng, K.\* (2025). [Imputation-based randomization tests for randomized experiments with interference.](https://arxiv.org/abs/2411.08352) Submitted. [[Package]](https://github.com/htx113/imprt)
 
 [11] Liu, Y., Levis, A. W., **Zhu, K.**, Yang, S., Gilbert, P. B., & Han, L.\* (2025). [Targeted data fusion for causal survival analysis under distribution shift.](https://arxiv.org/abs/2501.18798) Submitted.
 
-[12] Lu, J., Zhang, T., \& **Zhu, K.**\* (2025+) Fast rerandomization for balancing covariate in randomized experiments: A Metropolis–Hastings framework. Submitted.
+[12] Lu, J., Zhang, T., & **Zhu, K.**\* (2025) Fast rerandomization for balancing covariate in randomized experiments: A Metropolis–Hastings framework. Submitted.
 
 Interdisciplinary Collaborations
 ======
