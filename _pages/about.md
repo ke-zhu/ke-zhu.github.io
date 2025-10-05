@@ -48,7 +48,7 @@ Publications
 Submitted Papers
 ======
 
-[9] Liu, J.†, **Zhu, K.**†, Yang, S., & Wang, X.\* (2025). [Robust estimation and inference in hybrid controlled trials for binary outcomes: A case study on non-small cell lung cancer](https://arxiv.org/abs/2505.00217). Submitted.
+[9] Liu, J.†, **Zhu, K.**†, Yang, S., & Wang, X.\* (2025). [Robust estimation and inference in hybrid controlled trials for binary outcomes: A case study on non-small cell lung cancer](https://arxiv.org/abs/2505.00217). Submitted. [[Package]](https://github.com/IntegrativeStats/intFRT)
 
 [10] Han, T.†, **Zhu, K.**†, Liu, H.\*, & Deng, K.\* (2025). [Imputation-based randomization tests for randomized experiments with interference.](https://arxiv.org/abs/2411.08352) Submitted. [[Package]](https://github.com/htx113/imprt)
 
