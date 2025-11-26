@@ -10,24 +10,24 @@ redirect_from:
 
 I’m Ke Zhu, a Postdoctoral Research Scholar jointly affiliated with [North Carolina State University](https://statistics.sciences.ncsu.edu/people/kzhu24/) and [Duke University](https://biostat.duke.edu/profile/ke-zhu), mentored by Dr. [Shu Yang](https://shuyang.wordpress.ncsu.edu) and Dr. [Xiaofei Wang](https://biostat.duke.edu/profile/xiaofei-wang). I received my PhD from Tsinghua University, where I was advised by Dr. [Hanzhong Liu](https://www.stat.tsinghua.edu.cn/en/info/1023/1050.htm).
 
-My research focuses on developing statistical methodology and theory for causal inference, data integration, and uncertainty-aware machine learning. Driven by real-world challenges, I apply these methods to clinical trials, precision medicine, and policy evaluation.
+My research focuses on developing statistical methodology and theory for **causal inference**, **data integration**, and **uncertainty-aware machine learning**. Driven by real-world challenges, I apply these methods to clinical trials, precision medicine, and policy evaluation.
 
 **I am actively seeking faculty positions on the 2025–2026 academic job market. My CV is available [here](https://drive.google.com/file/d/1BUtA3dncxFTFDdb8TpAwtAVIBLXWyP4P/view?usp=share_link).**
 
 
-Education
+News
 ======
-* Ph.D. in Statistics, Tsinghua University, 2023
-* B.A. in Economics, Peking University, 2018
-* B.S. in Statistics, Beijing Normal University, 2017
 
+* Our invited session, **[Learning Across Boundaries: Statistical and Machine Learning Methods for Biomedical Data Fusion](https://ww3.aievolution.com/JSMAnnual2026/Events/viewEv?ev=5694)**, has been accepted for **JSM 2026**.
+
+* Our invited session, **[Conformal Inference for Uncertainty-Aware Machine Learning in Biomedical Research](https://sites.duke.edu/diss/s4b-conformal-inference-for-uncertainty-aware-machine-learning-in-biomedical-research/)**, has been accepted for **DISS 2026**.
 
 Professional Experience
 ======  
 * Guest Associate Editor, [Statistics in Biopharmaceutical Research](https://www.tandfonline.com/journals/usbr20), 2026–2027  
   *Special Issue on “Externally Controlled Trials: Tutorials, Reviews, and Practical Guidance”*  
 * Fellow, [FDA-OCE-ASA Oncology Educational Fellowship](https://community.amstat.org/fdaoceasaoncologyeducationalfellowship/home), 2025–2026  
-* Member / Sub-team Co-leader, [ASA Biopharmaceutical Section Real-World Evidence Scientific Working Group](https://community.amstat.org/biop/workinggroups/rweswg/rweswg-home), 2024–present  
+* Member / Sub-team Co-leader, [ASA Biopharmaceutical Section Real World Evidence Scientific Working Group](https://community.amstat.org/biop/workinggroups/rweswg/rweswg-home), 2024–present  
   *Hybrid Trial Designs Team*
 
 
