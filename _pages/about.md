@@ -12,7 +12,7 @@ I’m Ke Zhu, a Postdoctoral Research Scholar jointly affiliated with [North Car
 
 My research focuses on developing statistical methodology and theory for causal inference, data integration, and uncertainty-aware machine learning. Driven by real-world challenges, I apply these methods to clinical trials, precision medicine, and policy evaluation.
 
-I am actively seeking faculty positions on the 2025–2026 academic job market. My CV is available [here](https://drive.google.com/file/d/1BUtA3dncxFTFDdb8TpAwtAVIBLXWyP4P/view?usp=share_link).
+I am actively seeking faculty positions on the 2025–2026 academic job market. My CV is available [here](https://drive.google.com/file/d/1ttdo99ljDPryjNivkuR8XgXtO69C9kw4/view?usp=sharing).
 
 
 News
