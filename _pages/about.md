@@ -31,7 +31,7 @@ Professional Experience
 * Fellow, [FDA-OCE-ASA Oncology Educational Fellowship](https://community.amstat.org/fdaoceasaoncologyeducationalfellowship/home), 2025–2026  
 
 * Member / Sub-team Co-leader, [ASA Biopharmaceutical Section Real World Evidence Scientific Working Group](https://community.amstat.org/biop/workinggroups/rweswg/rweswg-home), 2024–present  
-  *Phase IV - Hybrid Trial Designs Team*
+  *Hybrid Trial Designs Team*
 
 
 Publications
