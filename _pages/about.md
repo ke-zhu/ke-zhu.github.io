@@ -22,6 +22,8 @@ News
 
 * Our invited session, [Conformal Inference for Uncertainty-Aware Machine Learning in Biomedical Research](https://sites.duke.edu/diss/s4b-conformal-inference-for-uncertainty-aware-machine-learning-in-biomedical-research/), has been accepted for **DISS 2026**.
 
+* My oral presentation, “Robust Estimation and Inference in Small Hybrid Controlled Trials with Conformal Selective Borrowing,” has been accepted for [**ENAR 2026**](https://www.enar.org/meetings/spring2026/).
+
 Professional Experience
 ======  
 
@@ -38,7 +40,7 @@ Publications
 ======
 († indicates co-first author; \* indicates corresponding author)
 
-[1] Liu, Y., Levis, A. W., **Zhu, K.**, Yang, S., Gilbert, P. B., & Han, L.\* (2026). [Federated causal survival analysis under distribution shift.](https://arxiv.org/abs/2501.18798) *Proceedings of the 14th International Conference on Learning Representations (ICLR)*, PMLR, in press.
+[1] Liu, Y., Levis, A. W., **Zhu, K.**, Yang, S., Gilbert, P. B., & Han, L.\* (2026). [Federated causal survival analysis under distribution shift.](https://openreview.net/forum?id=aTxnsFFO7t) *Proceedings of the 14th International Conference on Learning Representations (ICLR)*, PMLR, in press.
 
 [2] Liu, Y., **Zhu, K.**, Han, L., & Yang, S.\* (2026). [COADVISE: Covariate adjustment with variable selection in randomized controlled trials.](https://arxiv.org/abs/2501.08945) *Journal of the Royal Statistical Society: Series A*, in press. [[Package]](https://github.com/yiliu1998/Coadvise)
 
