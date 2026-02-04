@@ -28,7 +28,7 @@ Professional Experience
 ======  
 
 * Guest Associate Editor, [Statistics in Biopharmaceutical Research](https://www.tandfonline.com/journals/usbr20), 2026–2027  
-  *Special Issue on “Externally Controlled Trials: Tutorials, Reviews, and Practical Guidance”*  
+  *[Special Issue on “Externally Controlled Trials: Tutorials, Reviews, and Practical Guidance”](https://think.taylorandfrancis.com/special_issues/ect/)*
 
 * Fellow, [FDA-OCE-ASA Oncology Educational Fellowship](https://community.amstat.org/fdaoceasaoncologyeducationalfellowship/home), 2025–2026  
 
@@ -40,7 +40,7 @@ Publications
 ======
 († indicates co-first author; \* indicates corresponding author)
 
-[1] Liu, Y., Levis, A. W., **Zhu, K.**, Yang, S., Gilbert, P. B., & Han, L.\* (2026). [Federated causal survival analysis under distribution shift.](https://openreview.net/forum?id=aTxnsFFO7t) *Proceedings of the 14th International Conference on Learning Representations (ICLR)*, PMLR, in press.
+[1] Liu, Y., Levis, A. W., **Zhu, K.**, Yang, S., Gilbert, P. B., & Han, L.\* (2026). [Privacy-protected causal survival analysis under distribution shift.](https://openreview.net/forum?id=aTxnsFFO7t) *Proceedings of the 14th International Conference on Learning Representations (ICLR)*, PMLR, in press.
 
 [2] Liu, Y., **Zhu, K.**, Han, L., & Yang, S.\* (2026). [COADVISE: Covariate adjustment with variable selection in randomized controlled trials.](https://arxiv.org/abs/2501.08945) *Journal of the Royal Statistical Society: Series A*, in press. [[Package]](https://github.com/yiliu1998/Coadvise)
 
@@ -65,22 +65,28 @@ Publications
 Submitted Papers
 ======
 
-[10] Liu, J.†, **Zhu, K.**†, Yang, S., & Wang, X.\* (2025). [Robust estimation and inference in hybrid controlled trials for binary outcomes: A case study on non-small cell lung cancer](https://arxiv.org/abs/2505.00217). Submitted. [[Package]](https://github.com/IntegrativeStats/intFRT)
+[10] Li, C., **Zhu, K.**, Yang, S., & Wang, X.\* (2026). [Selective Information Borrowing for Region-Specific Treatment Effect Inference under Covariate Mismatch in Multi-Regional Clinical Trials](https://arxiv.org/abs/2602.02703). Submitted.
 
-[11] Han, T.†, **Zhu, K.**†, Liu, H.\*, & Deng, K.\* (2025). [Imputation-based randomization tests for randomized experiments with interference.](https://arxiv.org/abs/2411.08352) Submitted. [[Package]](https://github.com/htx113/imprt)
+[11] Liu, Y., Levis, A. W., **Zhu, K.**, Yang, S., Gilbert, P. B., \& Han, L.\* (2025). [Targeted Data Fusion for Causal Survival Analysis](https://arxiv.org/abs/2501.18798). Submitted.
 
-[12] Lu, J., Zhang, T., & **Zhu, K.**\* (2025) Fast rerandomization for balancing covariate in randomized experiments: A Metropolis–Hastings framework. Submitted.
+[12] Lu, X., Fu, W., Li, H., Yu, H., Zhang, H., **Zhu, K.**\*, & Liu, H. (2025). [Design-based Theory for Causal Inference (in Chinese)](https://arxiv.org/abs/2511.22518). Submitted.
+
+[13] Liu, J.†, **Zhu, K.**†, Yang, S., & Wang, X.\* (2025). [Robust estimation and inference in hybrid controlled trials for binary outcomes: A case study on non-small cell lung cancer](https://arxiv.org/abs/2505.00217). Submitted. [[Package]](https://github.com/IntegrativeStats/intFRT)
+
+[14] Han, T.†, **Zhu, K.**†, Liu, H.\*, & Deng, K.\* (2025). [Imputation-based randomization tests for randomized experiments with interference.](https://arxiv.org/abs/2411.08352) Submitted. [[Package]](https://github.com/htx113/imprt)
+
+[15] Lu, J., Zhang, T., & **Zhu, K.**\* (2025) Fast rerandomization for balancing covariate in randomized experiments: A Metropolis–Hastings framework. Submitted.
 
 Interdisciplinary Collaborations
 ======
 
-[13] Xia, F., **Zhu, K.**, Ren, Y., & Wang, N.\* (2024). [Efficacy of the automated mechanical repositioning chairs treatment for patients with benign paroxysmal positional vertigo.](https://www.cambridge.org/core/journals/journal-of-laryngology-and-otology/article/efficacy-of-the-automated-mechanical-repositioning-chairs-treatment-for-patients-with-benign-paroxysmal-positional-vertigo/F0849A523F950E5A5195324EB1D75833) *The Journal of Laryngology and Otology*, in press.
+[16] Xia, F., **Zhu, K.**, Ren, Y., & Wang, N.\* (2024). [Efficacy of the automated mechanical repositioning chairs treatment for patients with benign paroxysmal positional vertigo.](https://www.cambridge.org/core/journals/journal-of-laryngology-and-otology/article/efficacy-of-the-automated-mechanical-repositioning-chairs-treatment-for-patients-with-benign-paroxysmal-positional-vertigo/F0849A523F950E5A5195324EB1D75833) *The Journal of Laryngology and Otology*, in press.
 
-[14] Hu, C., **Zhu, K.**, Huang, K., Yu, B., Jiang, W., Peng, K., & Wang, F.\* (2022). [Using natural intervention to promote subjective well-being of essential workers during public-health crises: A study during the COVID-19 pandemic.](https://doi.org/10.1016/j.jenvp.2021.101745) *Journal of Environmental Psychology*, 79: 101745.
+[17] Hu, C., **Zhu, K.**, Huang, K., Yu, B., Jiang, W., Peng, K., & Wang, F.\* (2022). [Using natural intervention to promote subjective well-being of essential workers during public-health crises: A study during the COVID-19 pandemic.](https://doi.org/10.1016/j.jenvp.2021.101745) *Journal of Environmental Psychology*, 79: 101745.
 
-[15] Zhang, H., **Zhu, K.**, Wang, J., & Lv, X.\* (2022). [The use of a new classification in endovascular treatment of dural arteriovenous fistulas.](https://doi.org/10.1016/j.neuri.2022.100047) *Neuroscience Informatics*, 2(2): 100047.
+[18] Zhang, H., **Zhu, K.**, Wang, J., & Lv, X.\* (2022). [The use of a new classification in endovascular treatment of dural arteriovenous fistulas.](https://doi.org/10.1016/j.neuri.2022.100047) *Neuroscience Informatics*, 2(2): 100047.
 
-[16] **Zhu, K.**†, Jiang, Y.†, Wang, X., Shi, Z., Yang, C.\*, Liu, H.\*, & Deng, K.\* (2022). [A new framework of customized production product certification based on the combination of domain knowledge and data inference (in Chinese).](https://aps.ecnu.edu.cn/cn/article/id/9522) *Chinese Journal of Applied Probability and Statistics*, 38(4), 581--602.
+[19] **Zhu, K.**†, Jiang, Y.†, Wang, X., Shi, Z., Yang, C.\*, Liu, H.\*, & Deng, K.\* (2022). [A new framework of customized production product certification based on the combination of domain knowledge and data inference (in Chinese).](https://aps.ecnu.edu.cn/cn/article/id/9522) *Chinese Journal of Applied Probability and Statistics*, 38(4), 581--602.
 
 
 
