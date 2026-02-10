@@ -65,17 +65,17 @@ Publications
 Submitted Papers
 ======
 
-[10] Li, C., **Zhu, K.**, Yang, S., & Wang, X.\* (2026). [Selective Information Borrowing for Region-Specific Treatment Effect Inference under Covariate Mismatch in Multi-Regional Clinical Trials](https://arxiv.org/abs/2602.02703). Submitted.
+[10] Li, C., **Zhu, K.**, Yang, S., & Wang, X.\* (2026). [Selective Information Borrowing for Region-Specific Treatment Effect Inference under Covariate Mismatch in Multi-Regional Clinical Trials.](https://arxiv.org/abs/2602.02703) Submitted.
 
-[11] Liu, Y., Levis, A. W., **Zhu, K.**, Yang, S., Gilbert, P. B., & Han, L.\* (2025). [Targeted Data Fusion for Causal Survival Analysis](https://arxiv.org/abs/2501.18798). Submitted.
+[11] Liu, Y., Levis, A. W., **Zhu, K.**, Yang, S., Gilbert, P. B., & Han, L.\* (2025). [Targeted Data Fusion for Causal Survival Analysis.](https://arxiv.org/abs/2501.18798) Submitted.
 
-[12] Lu, X., Fu, W., Li, H., Yu, H., Zhang, H., **Zhu, K.**\*, & Liu, H. (2025). [Design-based Theory for Causal Inference (in Chinese)](https://arxiv.org/abs/2511.22518). Submitted.
+[12] Lu, X., Fu, W., Li, H., Yu, H., Zhang, H., **Zhu, K.**\*, & Liu, H. (2025). [Design-based Theory for Causal Inference (in Chinese).](https://arxiv.org/abs/2511.22518) Submitted.
 
-[13] Liu, J.†, **Zhu, K.**†, Yang, S., & Wang, X.\* (2025). [Robust estimation and inference in hybrid controlled trials for binary outcomes: A case study on non-small cell lung cancer](https://arxiv.org/abs/2505.00217). Submitted. [[Package]](https://github.com/IntegrativeStats/intFRT)
+[13] Liu, J.†, **Zhu, K.**†, Yang, S., & Wang, X.\* (2025). [Robust estimation and inference in hybrid controlled trials for binary outcomes: A case study on non-small cell lung cancer.](https://arxiv.org/abs/2505.00217) Submitted. [[Package]](https://github.com/IntegrativeStats/intFRT)
 
 [14] Han, T.†, **Zhu, K.**†, Liu, H.\*, & Deng, K.\* (2025). [Imputation-based randomization tests for randomized experiments with interference.](https://arxiv.org/abs/2411.08352) Submitted. [[Package]](https://github.com/htx113/imprt)
 
-[15] Lu, J., Zhang, T., & **Zhu, K.**\* (2025) Fast rerandomization for balancing covariate in randomized experiments: A Metropolis–Hastings framework. Submitted.
+[15] Lu, J., Zhang, T., & **Zhu, K.**\* (2025) [Fast rerandomization for balancing covariate in randomized experiments: A Metropolis–Hastings framework.](https://arxiv.org/abs/2602.07613) Submitted.
 
 Interdisciplinary Collaborations
 ======
