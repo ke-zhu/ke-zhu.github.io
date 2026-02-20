@@ -18,11 +18,13 @@ My CV is available [here](https://drive.google.com/file/d/1ttdo99ljDPryjNivkuR8X
 News
 ======
 
-* Our invited session, [Learning Across Boundaries: Statistical and Machine Learning Methods for Biomedical Data Fusion](https://ww3.aievolution.com/JSMAnnual2026/Events/viewEv?ev=5694), has been accepted for **JSM 2026**.
+* Our invited session, [Learning Across Boundaries: Statistical and Machine Learning Methods for Biomedical Data Fusion](https://ww3.aievolution.com/JSMAnnual2026/Events/viewEv?ev=5694), has been accepted for **JSM 2026** this August.
 
-* Our invited session, [Conformal Inference for Uncertainty-Aware Machine Learning in Biomedical Research](https://sites.duke.edu/diss/s4b-conformal-inference-for-uncertainty-aware-machine-learning-in-biomedical-research/), has been accepted for **DISS 2026**.
+* Our invited session, AI/ML-related Inference, with Applications in Biomedical Research, has been accepted for [**ICSA 2026**](https://symposium2026.icsa.org) this June.
 
-* My oral presentation, “Robust Estimation and Inference in Small Hybrid Controlled Trials with Conformal Selective Borrowing,” has been accepted for [**ENAR 2026**](https://www.enar.org/meetings/spring2026/).
+* Our invited session, [Conformal Inference for Uncertainty-Aware Machine Learning in Biomedical Research](https://sites.duke.edu/diss/s4b-conformal-inference-for-uncertainty-aware-machine-learning-in-biomedical-research/), has been accepted for **DISS 2026** this April.
+
+* My oral presentation, “Robust Estimation and Inference in Small Hybrid Controlled Trials with Conformal Selective Borrowing,” has been accepted for [**ENAR 2026**](https://www.enar.org/meetings/spring2026/) this March.
 
 Professional Experience
 ======  
