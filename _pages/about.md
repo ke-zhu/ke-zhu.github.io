@@ -24,7 +24,7 @@ News
 
 * Our invited session, [Conformal Inference for Uncertainty-Aware Machine Learning in Biomedical Research](https://sites.duke.edu/diss/s4b-conformal-inference-for-uncertainty-aware-machine-learning-in-biomedical-research/), has been accepted for **DISS 2026** this April.
 
-* My oral presentation, “Robust Estimation and Inference in Small Hybrid Controlled Trials with Conformal Selective Borrowing,” has been accepted for [**ENAR 2026**](https://www.enar.org/meetings/spring2026/) this March.
+* My oral presentation, “Robust Estimation and Inference in Small Hybrid Controlled Trials with Conformal Selective Borrowing,” has been accepted for [**ENAR 2026**](https://www.enar.org/meetings/spring2026/) this March. [[Slides]](https://drive.google.com/file/d/1Sv2dK2BMNaxsIzf4diOKvgTemslX2uDn/view?usp=share_link)
 
 Professional Experience
 ======  
