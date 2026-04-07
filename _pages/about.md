@@ -44,7 +44,7 @@ Publications
 
 [1] Liu, Y., **Zhu, K.**, Han, L., & Yang, S.\* (2026). [COADVISE: Covariate adjustment with variable selection in randomized controlled trials.](https://academic.oup.com/jrsssa/advance-article/doi/10.1093/jrsssa/qnaf171/8314246) *Journal of the Royal Statistical Society: Series A*, in press. [[Package]](https://github.com/yiliu1998/Coadvise)
 
-[2] Liu, Y., Levis, A. W., **Zhu, K.**, Yang, S., Gilbert, P. B., & Han, L.\* (2026). [Privacy-protected causal survival analysis under distribution shift.](https://openreview.net/forum?id=aTxnsFFO7t) *The 14th International Conference on Learning Representations (ICLR)*.
+[2] Liu, Y., Levis, A. W., **Zhu, K.**, Yang, S., Gilbert, P. B., & Han, L.\* (2026). [Privacy-protected causal survival analysis under distribution shift.](https://openreview.net/forum?id=aTxnsFFO7t) *The 14th International Conference on Learning Representations (ICLR)*. [[Package]](https://github.com/yiliu1998/FuseSurv)
 
 [3] **Zhu, K.**, Yang, S.\*, & Wang, X. (2025). [Enhancing statistical validity and power in hybrid controlled trials: A randomization inference approach with conformal selective borrowing.](https://proceedings.mlr.press/v267/zhu25y.html) *Proceedings of the 42nd International Conference on Machine Learning (ICML)*, PMLR, 267: 80282-80309. [[Slides]](https://drive.google.com/file/d/1LkTDY12CjUL0BAGQAt4JmOBlgk-MN3Ix/view?usp=sharing) [[Poster]](https://drive.google.com/file/d/1g5vFT6irtPWFQWwh6AGe-iYCvMF4z0B2/view?usp=share_link) [[Package]](https://github.com/ke-zhu/intFRT) [[Code]](https://github.com/ke-zhu/frt-csb-code)
 
