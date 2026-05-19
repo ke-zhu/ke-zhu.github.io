@@ -10,32 +10,36 @@ redirect_from:
 
 I’m Ke Zhu, a Postdoctoral Research Scholar jointly affiliated with [North Carolina State University](https://statistics.sciences.ncsu.edu/people/kzhu24/) and [Duke University](https://biostat.duke.edu/profile/ke-zhu), mentored by Dr. [Shu Yang](https://shuyang.wordpress.ncsu.edu) and Dr. [Xiaofei Wang](https://biostat.duke.edu/profile/xiaofei-wang). I received my PhD from Tsinghua University, where I was advised by Dr. [Hanzhong Liu](https://www.stat.tsinghua.edu.cn/en/info/1023/1050.htm).
 
-My research focuses on developing statistical methodology and theory for causal inference, data integration, and uncertainty-aware machine learning. Driven by real-world challenges, I apply these methods to clinical trials, precision medicine, and policy evaluation.
+My research focuses on developing statistical methodology and theory for causal inference, data integration, and uncertainty-aware machine learning. Driven by real-world challenges, I apply these methods to clinical trials, real-world evidence, and precision medicine.
 
 My CV is available [here](https://drive.google.com/file/d/1ttdo99ljDPryjNivkuR8XgXtO69C9kw4/view?usp=sharing).
 
 
-News
+Conference & Workshop
 ======
 
 * Our invited session, [Learning Across Boundaries: Statistical and Machine Learning Methods for Biomedical Data Fusion](https://ww3.aievolution.com/JSMAnnual2026/Events/viewEv?ev=5694), has been accepted for **JSM 2026** this August.
 
-* Our invited session, AI/ML-related Inference, with Applications in Biomedical Research, has been accepted for [**ICSA 2026**](https://symposium2026.icsa.org) this June.
+* I have been invited to attend the Institute for Mathematical and Statistical Innovation Workshop [New Horizons on Model Transportability and Data Integration](https://www.imsi.institute/activities/new-horizons-on-model-transportability-and-data-integration/) this June, where I will present a poster.
+
+* Our invited session, [AI/ML-related Inference, with Applications in Biomedical Research](https://symposium2026.icsa.org/program/), has been accepted for **ICSA 2026** this June.
 
 * Our invited session, [Conformal Inference for Uncertainty-Aware Machine Learning in Biomedical Research](https://sites.duke.edu/diss/s4b-conformal-inference-for-uncertainty-aware-machine-learning-in-biomedical-research/), has been accepted for **DISS 2026** this April.
 
 * My oral presentation, “Robust Estimation and Inference in Small Hybrid Controlled Trials with Conformal Selective Borrowing,” has been accepted for [**ENAR 2026**](https://www.enar.org/meetings/spring2026/) this March. [[Slides]](https://drive.google.com/file/d/1Sv2dK2BMNaxsIzf4diOKvgTemslX2uDn/view?usp=share_link)
 
-Professional Experience
+Professional Activities
 ======  
 
-* Guest Associate Editor, [Statistics in Biopharmaceutical Research](https://www.tandfonline.com/journals/usbr20), 2026–2027  
+* Member, ASA Biopharmaceutical Section Dynamic Borrowing Scientific Working Group, 2026–present
+
+* Guest Associate Editor, [Statistics in Biopharmaceutical Research](https://www.tandfonline.com/journals/usbr20), 2026–present
   *[Special Issue on “Externally Controlled Trials: Tutorials, Reviews, and Practical Guidance”](https://think.taylorandfrancis.com/special_issues/ect/)*
 
 * Fellow, [FDA-OCE-ASA Oncology Educational Fellowship](https://community.amstat.org/fdaoceasaoncologyeducationalfellowship/home), 2025–2026  
 
 * Member / Sub-team Co-leader, [ASA Biopharmaceutical Section Real World Evidence Scientific Working Group](https://community.amstat.org/biop/workinggroups/rweswg/rweswg-home), 2024–present  
-  *Hybrid Trial Designs Team*
+  *Team 1: Externally Controlled Trials with RWD/E*
 
 
 Publications
@@ -69,9 +73,9 @@ Submitted Papers
 
 [10] **Ke Zhu**, Rima Izem, Peng Yang, Ying Yuan, Herbert Pang, Mark van der Laan, Lei Nie, Birol Emir, Pallavi Mishra-Kalyani, Hana Lee, and Shu Yang\* (2026). [Externally Controlled Trials: A Review of Design and Borrowing Through a Causal Lens.](https://arxiv.org/abs/2605.03282)
 
-[11] Chenxi Li, **Ke Zhu**, Shu Yang, and Xiaofei Wang\* (2026). [Selective Information Borrowing for Region-Specific Treatment Effect Inference under Covariate Mismatch in Multi-Regional Clinical Trials.](https://arxiv.org/abs/2602.02703)
+[11] Chenxi Li, **Ke Zhu**, Shu Yang, and Xiaofei Wang\* (2026). [Selective Information Borrowing for Region-Specific Treatment Effect Inference under Covariate Mismatch in Multi-Regional Clinical Trials.](https://arxiv.org/abs/2602.02703) [[Code]](github.com/chenxi0217/RSATE-in-MRCT)
 
-[12] Yi Liu, Alexander W. Levis, **Ke Zhu**, Shu Yang, Peter B. Gilbert, and Larry Han\* (2025). [Targeted Data Fusion for Region-Specific Survival Effects in the AMP HIV Prevention Trials.](https://arxiv.org/abs/2501.18798)
+[12] Yi Liu, Alexander W. Levis, **Ke Zhu**, Shu Yang, Peter B. Gilbert, and Larry Han\* (2025). [Targeted Data Fusion for Region-Specific Survival Effects in the AMP HIV Prevention Trials.](https://arxiv.org/abs/2501.18798) [[Package]](https://github.com/yiliu1998/FuseSurv)
 
 [13] Jiajun Liu†, **Ke Zhu**†, Shu Yang, and Xiaofei Wang\* (2025). [Robust estimation and inference in hybrid controlled trials for binary outcomes: A case study on non-small cell lung cancer.](https://arxiv.org/abs/2505.00217) [[Package]](https://github.com/IntegrativeStats/intFRT)
 
