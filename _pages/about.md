@@ -33,7 +33,7 @@ Professional Activities
 
 * Member, ASA Biopharmaceutical Section Dynamic Borrowing Scientific Working Group, 2026–present
 
-* Guest Associate Editor, [Statistics in Biopharmaceutical Research](https://www.tandfonline.com/journals/usbr20), 2026–present
+* Guest Associate Editor, [Statistics in Biopharmaceutical Research](https://www.tandfonline.com/journals/usbr20), 2026–present  
   *Special Issue on “Externally Controlled Trials: Tutorials, Reviews, and Practical Guidance”*
 
 * Fellow, [FDA-OCE-ASA Oncology Educational Fellowship](https://community.amstat.org/fdaoceasaoncologyeducationalfellowship/home), 2025–2026  
