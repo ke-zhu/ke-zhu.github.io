@@ -20,7 +20,7 @@ Conference & Workshop
 
 * Our invited session, [Learning Across Boundaries: Statistical and Machine Learning Methods for Biomedical Data Fusion](https://ww3.aievolution.com/JSMAnnual2026/Events/viewEv?ev=5694), has been accepted for **JSM 2026** this August.
 
-* I have been invited to attend the Institute for Mathematical and Statistical Innovation Workshop [New Horizons on Model Transportability and Data Integration](https://www.imsi.institute/activities/new-horizons-on-model-transportability-and-data-integration/) this June, where I will present a poster.
+* I have been invited to attend the **IMSI Workshop** [New Horizons on Model Transportability and Data Integration](https://www.imsi.institute/activities/new-horizons-on-model-transportability-and-data-integration/) this June, where I will present a poster.
 
 * Our invited session, [AI/ML-related Inference, with Applications in Biomedical Research](https://symposium2026.icsa.org/program/), has been accepted for **ICSA 2026** this June.
 
@@ -34,7 +34,7 @@ Professional Activities
 * Member, ASA Biopharmaceutical Section Dynamic Borrowing Scientific Working Group, 2026–present
 
 * Guest Associate Editor, [Statistics in Biopharmaceutical Research](https://www.tandfonline.com/journals/usbr20), 2026–present
-  *[Special Issue on “Externally Controlled Trials: Tutorials, Reviews, and Practical Guidance”](https://think.taylorandfrancis.com/special_issues/ect/)*
+  *Special Issue on “Externally Controlled Trials: Tutorials, Reviews, and Practical Guidance”*
 
 * Fellow, [FDA-OCE-ASA Oncology Educational Fellowship](https://community.amstat.org/fdaoceasaoncologyeducationalfellowship/home), 2025–2026  
 
