@@ -20,7 +20,7 @@ Conference & Workshop
 
 * Our invited session, [Learning Across Boundaries: Statistical and Machine Learning Methods for Biomedical Data Fusion](https://ww3.aievolution.com/JSMAnnual2026/Events/viewEv?ev=5694), has been accepted for **JSM 2026** this August.
 
-* I have been invited to attend the **IMSI Workshop** [New Horizons on Model Transportability and Data Integration](https://www.imsi.institute/activities/new-horizons-on-model-transportability-and-data-integration/) this June, where I will present a poster.
+* I have been invited to attend the **IMSI Workshop** [New Horizons on Model Transportability and Data Integration](https://www.imsi.institute/activities/new-horizons-on-model-transportability-and-data-integration/) this June, where I will present a poster. [[Poster]](https://www.imsi.institute/new-horizons-on-model-transportability-and-data-integration-poster-session/)
 
 * Our invited session, [AI/ML-related Inference, with Applications in Biomedical Research](https://symposium2026.icsa.org/program/), has been accepted for **ICSA 2026** this June.
 
