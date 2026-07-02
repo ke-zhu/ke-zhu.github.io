@@ -73,7 +73,7 @@ Submitted Papers
 
 [10] **Ke Zhu**, Rima Izem, Peng Yang, Ying Yuan, Herbert Pang, Mark van der Laan, Lei Nie, Birol Emir, Pallavi Mishra-Kalyani, Hana Lee, and Shu Yang\* (2026). [Externally Controlled Trials: A Review of Design and Borrowing Through a Causal Lens.](https://arxiv.org/abs/2605.03282)
 
-[11] **Ke Zhu**, Hairong Huang, Shu Yang, and Xiaofei Wang\* (2026). Robust Estimation and Inference with Selective Borrowing in Hybrid Controlled Trials: A Tutorial with SelectiveIntegrative and intFRT.
+[11] **Ke Zhu**, Hairong Huang, Shu Yang, and Xiaofei Wang\* (2026). [Robust Estimation and Inference with Selective Borrowing in Hybrid Controlled Trials: A Tutorial with SelectiveIntegrative and intFRT.](https://arxiv.org/abs/2607.00350)
 
 [12] Jiajun Liu, **Ke Zhu**, and Xiaofei Wang\* (2026). [A Conformal Selection Framework for Individual Treatment Beneficiaries with Auxiliary External Data.](https://arxiv.org/abs/2606.31954) 
 
