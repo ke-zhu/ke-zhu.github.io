@@ -71,34 +71,36 @@ Publications
 Submitted Papers
 ======
 
-[10] **Ke Zhu**, Rima Izem, Peng Yang, Ying Yuan, Herbert Pang, Mark van der Laan, Lei Nie, Birol Emir, Pallavi Mishra-Kalyani, Hana Lee, and Shu Yang\* (2026). [Externally Controlled Trials: A Review of Design and Borrowing Through a Causal Lens.](https://arxiv.org/abs/2605.03282)
+[10] **Ke Zhu**, Shu Yang, and Xiaofei Wang\* (2026). [Power and Sample Size Calculations for Hybrid Controlled Trials.](https://arxiv.org/abs/2608.26475v1)
 
-[11] **Ke Zhu**, Hairong Huang, Shu Yang, and Xiaofei Wang\* (2026). [Robust Estimation and Inference with Selective Borrowing in Hybrid Controlled Trials: A Tutorial with SelectiveIntegrative and intFRT.](https://arxiv.org/abs/2607.00350)
+[11] **Ke Zhu**, Rima Izem, Peng Yang, Ying Yuan, Herbert Pang, Mark van der Laan, Lei Nie, Birol Emir, Pallavi Mishra-Kalyani, Hana Lee, and Shu Yang\* (2026). [Externally Controlled Trials: A Review of Design and Borrowing Through a Causal Lens.](https://arxiv.org/abs/2605.03282)
 
-[12] Jiajun Liu, **Ke Zhu**, and Xiaofei Wang\* (2026). [A Conformal Selection Framework for Individual Treatment Beneficiaries with Auxiliary External Data.](https://arxiv.org/abs/2606.31954) 
+[12] **Ke Zhu**, Hairong Huang, Shu Yang, and Xiaofei Wang\* (2026). [Robust Estimation and Inference with Selective Borrowing in Hybrid Controlled Trials: A Tutorial with SelectiveIntegrative and intFRT.](https://arxiv.org/abs/2607.00350)
 
-[13] Chenxi Li, **Ke Zhu**, Shu Yang, and Xiaofei Wang\* (2026). [Selective Information Borrowing for Region-Specific Treatment Effect Inference under Covariate Mismatch in Multi-Regional Clinical Trials.](https://arxiv.org/abs/2602.02703) [[Code]](github.com/chenxi0217/RSATE-in-MRCT)
+[13] Jiajun Liu, **Ke Zhu**, and Xiaofei Wang\* (2026). [A Conformal Selection Framework for Individual Treatment Beneficiaries with Auxiliary External Data.](https://arxiv.org/abs/2606.31954) 
 
-[14] Yi Liu, Alexander W. Levis, **Ke Zhu**, Shu Yang, Peter B. Gilbert, and Larry Han\* (2025). [Targeted Data Fusion for Region-Specific Survival Effects in the AMP HIV Prevention Trials.](https://arxiv.org/abs/2501.18798) [[Package]](https://github.com/yiliu1998/FuseSurv)
+[14] Chenxi Li, **Ke Zhu**, Shu Yang, and Xiaofei Wang\* (2026). [Selective Information Borrowing for Region-Specific Treatment Effect Inference under Covariate Mismatch in Multi-Regional Clinical Trials.](https://arxiv.org/abs/2602.02703) [[Code]](github.com/chenxi0217/RSATE-in-MRCT)
 
-[15] Jiajun Liu†, **Ke Zhu**†, Shu Yang, and Xiaofei Wang\* (2025). [Robust estimation and inference in hybrid controlled trials for binary outcomes: A case study on non-small cell lung cancer.](https://arxiv.org/abs/2505.00217) [[Package]](https://github.com/IntegrativeStats/intFRT)
+[15] Yi Liu, Alexander W. Levis, **Ke Zhu**, Shu Yang, Peter B. Gilbert, and Larry Han\* (2025). [Targeted Data Fusion for Region-Specific Survival Effects in the AMP HIV Prevention Trials.](https://arxiv.org/abs/2501.18798) [[Package]](https://github.com/yiliu1998/FuseSurv)
 
-[16] Tingxuan Han†, **Ke Zhu**†, Hanzhong Liu\*, and Ke Deng\* (2025). [Imputation-based randomization tests for randomized experiments with interference.](https://arxiv.org/abs/2411.08352) [[Package]](https://github.com/htx113/imprt)
+[16] Jiajun Liu†, **Ke Zhu**†, Shu Yang, and Xiaofei Wang\* (2025). [Robust estimation and inference in hybrid controlled trials for binary outcomes: A case study on non-small cell lung cancer.](https://arxiv.org/abs/2505.00217) [[Package]](https://github.com/IntegrativeStats/intFRT)
 
-[17] Jiuyao Lu, Tianruo Zhang, and **Ke Zhu**\* (2025) [Fast rerandomization for balancing covariate in randomized experiments: A Metropolis–Hastings framework.](https://arxiv.org/abs/2602.07613)
+[17] Tingxuan Han†, **Ke Zhu**†, Hanzhong Liu\*, and Ke Deng\* (2025). [Imputation-based randomization tests for randomized experiments with interference.](https://arxiv.org/abs/2411.08352) [[Package]](https://github.com/htx113/imprt)
 
-[18] Xin Lu, Wanjia Fu, Hongzi Li, Haoyang Yu, Honghao Zhang, **Ke Zhu***, and Hanzhong Liu (2025). [Design-based Theory for Causal Inference (in Chinese).](https://arxiv.org/abs/2511.22518)
+[18] Jiuyao Lu, Tianruo Zhang, and **Ke Zhu**\* (2025) [Fast rerandomization for balancing covariate in randomized experiments: A Metropolis–Hastings framework.](https://arxiv.org/abs/2602.07613)
+
+[19] Xin Lu, Wanjia Fu, Hongzi Li, Haoyang Yu, Honghao Zhang, **Ke Zhu***, and Hanzhong Liu (2025). [Design-based Theory for Causal Inference (in Chinese).](https://arxiv.org/abs/2511.22518)
 
 Interdisciplinary Collaborations
 ======
 
-[19] Fei Xia, **Ke Zhu**, Yuanyuan Ren, and Ningyu Wang\* (2024). [Efficacy of the automated mechanical repositioning chairs treatment for patients with benign paroxysmal positional vertigo.](https://doi.org/10.1017/S002221512400118X) *The Journal of Laryngology and Otology*, in press.
+[20] Fei Xia, **Ke Zhu**, Yuanyuan Ren, and Ningyu Wang\* (2024). [Efficacy of the automated mechanical repositioning chairs treatment for patients with benign paroxysmal positional vertigo.](https://doi.org/10.1017/S002221512400118X) *The Journal of Laryngology and Otology*, in press.
 
-[20] Chenhao Hu, **Ke Zhu**, Kun Huang, Bo Yu, Wenchen Jiang, Kaiping Peng, and Fei Wang\* (2022). [Using natural intervention to promote subjective well-being of essential workers during public-health crises: A study during the COVID-19 pandemic.](https://doi.org/10.1016/j.jenvp.2021.101745) *Journal of Environmental Psychology*, 79: 101745.
+[21] Chenhao Hu, **Ke Zhu**, Kun Huang, Bo Yu, Wenchen Jiang, Kaiping Peng, and Fei Wang\* (2022). [Using natural intervention to promote subjective well-being of essential workers during public-health crises: A study during the COVID-19 pandemic.](https://doi.org/10.1016/j.jenvp.2021.101745) *Journal of Environmental Psychology*, 79: 101745.
 
-[21] Huachen Zhang, **Ke Zhu**, Jiangdian Wang, and Xianli Lv\* (2022). [The use of a new classification in endovascular treatment of dural arteriovenous fistulas.](https://doi.org/10.1016/j.neuri.2022.100047) *Neuroscience Informatics*, 2(2): 100047.
+[22] Huachen Zhang, **Ke Zhu**, Jiangdian Wang, and Xianli Lv\* (2022). [The use of a new classification in endovascular treatment of dural arteriovenous fistulas.](https://doi.org/10.1016/j.neuri.2022.100047) *Neuroscience Informatics*, 2(2): 100047.
 
-[22] **Ke Zhu**†, Yingkai Jiang†, Xiang Wang, Zhicheng Shi, Chao Yang, Hanzhong Liu\*, and Ke Deng\* (2022). [A new framework of customized production product certification based on the combination of domain knowledge and data inference (in Chinese).](https://aps.ecnu.edu.cn/cn/article/id/9522) *Chinese Journal of Applied Probability and Statistics*, 38(4), 581--602.
+[23] **Ke Zhu**†, Yingkai Jiang†, Xiang Wang, Zhicheng Shi, Chao Yang, Hanzhong Liu\*, and Ke Deng\* (2022). [A new framework of customized production product certification based on the combination of domain knowledge and data inference (in Chinese).](https://aps.ecnu.edu.cn/cn/article/id/9522) *Chinese Journal of Applied Probability and Statistics*, 38(4), 581--602.
 
 
 
