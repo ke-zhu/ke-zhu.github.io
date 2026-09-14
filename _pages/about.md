@@ -46,44 +46,44 @@ Publications
 ======
 († indicates co-first author; \* indicates corresponding author)
 
-[1] Yi Liu, **Ke Zhu**, Larry Han, and Shu Yang\* (2026). [COADVISE: Covariate adjustment with variable selection in randomized controlled trials.](https://academic.oup.com/jrsssa/advance-article/doi/10.1093/jrsssa/qnaf171/8314246) *Journal of the Royal Statistical Society: Series A*, in press. [[Package]](https://github.com/yiliu1998/Coadvise)
+[1] Jiajun Liu†, **Ke Zhu**†, Shu Yang, and Xiaofei Wang\* (2025). [Robust estimation and inference in hybrid controlled trials for binary outcomes: A case study on non-small cell lung cancer.](https://arxiv.org/abs/2505.00217) *The Annals of Applied Statistics*, in press. [[Package]](https://github.com/IntegrativeStats/intFRT)
 
-[2] Yi Liu, Alexander W. Levis, **Ke Zhu**, Shu Yang, Peter B. Gilbert, and Larry Han\* (2026). [Privacy-protected causal survival analysis under distribution shift.](https://openreview.net/forum?id=aTxnsFFO7t) *The 14th International Conference on Learning Representations (ICLR)*. [[Package]](https://github.com/yiliu1998/FuseSurv)
+[2] Yi Liu, **Ke Zhu**, Larry Han, and Shu Yang\* (2026). [COADVISE: Covariate adjustment with variable selection in randomized controlled trials.](https://academic.oup.com/jrsssa/advance-article/doi/10.1093/jrsssa/qnaf171/8314246) *Journal of the Royal Statistical Society: Series A*, in press. [[Package]](https://github.com/yiliu1998/Coadvise)
 
-[3] **Ke Zhu**, Shu Yang\*, and Xiaofei Wang (2025). [Enhancing statistical validity and power in hybrid controlled trials: A randomization inference approach with conformal selective borrowing.](https://proceedings.mlr.press/v267/zhu25y.html) *Proceedings of the 42nd International Conference on Machine Learning (ICML)*, PMLR, 267: 80282-80309. [[Slides]](https://drive.google.com/file/d/1LkTDY12CjUL0BAGQAt4JmOBlgk-MN3Ix/view?usp=sharing) [[Poster]](https://drive.google.com/file/d/1g5vFT6irtPWFQWwh6AGe-iYCvMF4z0B2/view?usp=share_link) [[Package]](https://github.com/ke-zhu/intFRT) [[Code]](https://github.com/ke-zhu/frt-csb-code)
+[3] Yi Liu, Alexander W. Levis, **Ke Zhu**, Shu Yang, Peter B. Gilbert, and Larry Han\* (2026). [Privacy-protected causal survival analysis under distribution shift.](https://openreview.net/forum?id=aTxnsFFO7t) *The 14th International Conference on Learning Representations (ICLR)*. [[Package]](https://github.com/yiliu1998/FuseSurv)
+
+[4] **Ke Zhu**, Shu Yang\*, and Xiaofei Wang (2025). [Enhancing statistical validity and power in hybrid controlled trials: A randomization inference approach with conformal selective borrowing.](https://proceedings.mlr.press/v267/zhu25y.html) *Proceedings of the 42nd International Conference on Machine Learning (ICML)*, PMLR, 267: 80282-80309. [[Slides]](https://drive.google.com/file/d/1LkTDY12CjUL0BAGQAt4JmOBlgk-MN3Ix/view?usp=sharing) [[Poster]](https://drive.google.com/file/d/1g5vFT6irtPWFQWwh6AGe-iYCvMF4z0B2/view?usp=share_link) [[Package]](https://github.com/ke-zhu/intFRT) [[Code]](https://github.com/ke-zhu/frt-csb-code)
 
 \*\* Winner of the [NISS New Researcher Presentation Award](https://drive.google.com/file/d/1xqWslnim2x5-BOVvAUwS2xorVk6xgZz3/view?usp=share_link) at the [NISS Virtual New Researchers Conference](https://www.niss.org/events/niss-virtual-new-researchers-conference)
 
 \*\* Winner of the NSF Travel Award for the [10th Workshop on Biostatistics and Bioinformatics](https://math.gsu.edu/yichuan/2025Workshop)
 
-[4] **Ke Zhu**†, Jianing Chu†, Ilya Lipkovich, Wenyu Ye, and Shu Yang\* (2025). [Doubly robust fusion of many treatments for policy learning.](https://proceedings.mlr.press/v267/zhu25e.html) *Proceedings of the 42nd International Conference on Machine Learning (ICML)*, PMLR, 267: 79772-79789. [[Slides]](https://drive.google.com/file/d/1yHcip1b672bO1bz7vGCa2OmC4PBg33r2/view?usp=sharing) [[Poster]](https://drive.google.com/file/d/1CoTnqpwHshFU7k6rgy3vbGFcBC5OAgsk/view?usp=sharing)
+[5] **Ke Zhu**†, Jianing Chu†, Ilya Lipkovich, Wenyu Ye, and Shu Yang\* (2025). [Doubly robust fusion of many treatments for policy learning.](https://proceedings.mlr.press/v267/zhu25e.html) *Proceedings of the 42nd International Conference on Machine Learning (ICML)*, PMLR, 267: 79772-79789. [[Slides]](https://drive.google.com/file/d/1yHcip1b672bO1bz7vGCa2OmC4PBg33r2/view?usp=sharing) [[Poster]](https://drive.google.com/file/d/1CoTnqpwHshFU7k6rgy3vbGFcBC5OAgsk/view?usp=sharing)
 
-[5] Haoyang Yu, **Ke Zhu**\*, and Hanzhong Liu (2025). [Sharp variance estimator and causal bootstrap in stratified randomized experiments.](https://onlinelibrary.wiley.com/doi/10.1002/sim.70139) *Statistics in Medicine*, 44(13-14): e70139. [[Paper]](https://drive.google.com/file/d/1vvI2nRWjiAJk6tUCcZUGuNNRwSioSzjz/view?usp=share_link) [[Package]](https://github.com/yu-hao-yang/CausalBootstrap) [[Code]](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fsim.70139&file=sim70139-sup-0001-DataS1.zip)
+[6] Haoyang Yu, **Ke Zhu**\*, and Hanzhong Liu (2025). [Sharp variance estimator and causal bootstrap in stratified randomized experiments.](https://onlinelibrary.wiley.com/doi/10.1002/sim.70139) *Statistics in Medicine*, 44(13-14): e70139. [[Paper]](https://drive.google.com/file/d/1vvI2nRWjiAJk6tUCcZUGuNNRwSioSzjz/view?usp=share_link) [[Package]](https://github.com/yu-hao-yang/CausalBootstrap) [[Code]](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fsim.70139&file=sim70139-sup-0001-DataS1.zip)
 
-[6] **Ke Zhu**, Hanzhong Liu\*, and Yuehan Yang\* (2025). [Design-based theory for lasso adjustment in randomized block experiments and rerandomized experiments.](https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2403381) *Journal of Business & Economic Statistics*, 43(3): 544-555. [[Paper]](https://drive.google.com/file/d/1CG2LFFoNklAKZGLoSOexTEjpcvv6VI_c/view?usp=share_link) [[Slides]](https://drive.google.com/file/d/1U_IFeQeBr02D8ypQrqGq7UoJ7Ffw8huE/view?usp=share_link) [[Code]](https://github.com/ke-zhu/stra-rerand-lasso-code)
+[7] **Ke Zhu**, Hanzhong Liu\*, and Yuehan Yang\* (2025). [Design-based theory for lasso adjustment in randomized block experiments and rerandomized experiments.](https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2403381) *Journal of Business & Economic Statistics*, 43(3): 544-555. [[Paper]](https://drive.google.com/file/d/1CG2LFFoNklAKZGLoSOexTEjpcvv6VI_c/view?usp=share_link) [[Slides]](https://drive.google.com/file/d/1U_IFeQeBr02D8ypQrqGq7UoJ7Ffw8huE/view?usp=share_link) [[Code]](https://github.com/ke-zhu/stra-rerand-lasso-code)
 
-[7] **Ke Zhu**, and Hanzhong Liu\* (2024). [Rejoinder to reader reaction “On exact randomization-based covariate-adjusted confidence intervals” by Jacob Fiksel.](https://doi.org/10.1093/biomtc/ujae052) *Biometrics*, 80(2): ujae052. [[Paper]](https://drive.google.com/file/d/1Ox9LaahfrXYHSPLYWynKGnPIW24CG68p/view?usp=share_link) [[Code]](https://github.com/ke-zhu/rbci) 
+[8] **Ke Zhu**, and Hanzhong Liu\* (2024). [Rejoinder to reader reaction “On exact randomization-based covariate-adjusted confidence intervals” by Jacob Fiksel.](https://doi.org/10.1093/biomtc/ujae052) *Biometrics*, 80(2): ujae052. [[Paper]](https://drive.google.com/file/d/1Ox9LaahfrXYHSPLYWynKGnPIW24CG68p/view?usp=share_link) [[Code]](https://github.com/ke-zhu/rbci) 
 
-[8] **Ke Zhu**, and Hanzhong Liu\* (2023). [Pair-switching rerandomization.](https://doi.org/10.1111/biom.13712) *Biometrics*, 79(3): 2127-2142. [[Paper]](https://drive.google.com/file/d/18YwSCJwJ9JPYIMURraZV2mAMCdj9YH2N/view?usp=share_link) [[Code]](https://academic.oup.com/biometrics/article/79/3/2127/7513878#supplementary-data)
+[9] **Ke Zhu**, and Hanzhong Liu\* (2023). [Pair-switching rerandomization.](https://doi.org/10.1111/biom.13712) *Biometrics*, 79(3): 2127-2142. [[Paper]](https://drive.google.com/file/d/18YwSCJwJ9JPYIMURraZV2mAMCdj9YH2N/view?usp=share_link) [[Code]](https://academic.oup.com/biometrics/article/79/3/2127/7513878#supplementary-data)
 
-[9] **Ke Zhu**, and Hanzhong Liu\* (2022). [Confidence intervals for parameters in high-dimensional sparse vector autoregression.](https://doi.org/10.1016/j.csda.2021.107383) *Computational Statistics & Data Analysis*, 168: 107383. [[Paper]](https://drive.google.com/file/d/1EIu74F-MQtSpYKt_sh6d15FKKShr9c5w/view?usp=sharing)
+[10] **Ke Zhu**, and Hanzhong Liu\* (2022). [Confidence intervals for parameters in high-dimensional sparse vector autoregression.](https://doi.org/10.1016/j.csda.2021.107383) *Computational Statistics & Data Analysis*, 168: 107383. [[Paper]](https://drive.google.com/file/d/1EIu74F-MQtSpYKt_sh6d15FKKShr9c5w/view?usp=sharing)
 
 Submitted Papers
 ======
 
-[10] **Ke Zhu**, Shu Yang, and Xiaofei Wang\* (2026). [Power and Sample Size Calculations for Hybrid Controlled Trials.](https://arxiv.org/abs/2608.26475v1)
+[11] **Ke Zhu**, Shu Yang, and Xiaofei Wang\* (2026). [Power and Sample Size Calculations for Hybrid Controlled Trials.](https://arxiv.org/abs/2608.26475v1)
 
-[11] **Ke Zhu**, Rima Izem, Peng Yang, Ying Yuan, Herbert Pang, Mark van der Laan, Lei Nie, Birol Emir, Pallavi Mishra-Kalyani, Hana Lee, and Shu Yang\* (2026). [Externally Controlled Trials: A Review of Design and Borrowing Through a Causal Lens.](https://arxiv.org/abs/2605.03282)
+[12] **Ke Zhu**, Rima Izem, Peng Yang, Ying Yuan, Herbert Pang, Mark van der Laan, Lei Nie, Birol Emir, Pallavi Mishra-Kalyani, Hana Lee, and Shu Yang\* (2026). [Externally Controlled Trials: A Review of Design and Borrowing Through a Causal Lens.](https://arxiv.org/abs/2605.03282)
 
-[12] **Ke Zhu**, Hairong Huang, Shu Yang, and Xiaofei Wang\* (2026). [Robust Estimation and Inference with Selective Borrowing in Hybrid Controlled Trials: A Tutorial with SelectiveIntegrative and intFRT.](https://arxiv.org/abs/2607.00350)
+[13] **Ke Zhu**, Hairong Huang, Shu Yang, and Xiaofei Wang\* (2026). [Robust Estimation and Inference with Selective Borrowing in Hybrid Controlled Trials: A Tutorial with SelectiveIntegrative and intFRT.](https://arxiv.org/abs/2607.00350)
 
-[13] Jiajun Liu, **Ke Zhu**, and Xiaofei Wang\* (2026). [A Conformal Selection Framework for Individual Treatment Beneficiaries with Auxiliary External Data.](https://arxiv.org/abs/2606.31954) 
+[14] Jiajun Liu, **Ke Zhu**, and Xiaofei Wang\* (2026). [A Conformal Selection Framework for Individual Treatment Beneficiaries with Auxiliary External Data.](https://arxiv.org/abs/2606.31954) 
 
-[14] Chenxi Li, **Ke Zhu**, Shu Yang, and Xiaofei Wang\* (2026). [Selective Information Borrowing for Region-Specific Treatment Effect Inference under Covariate Mismatch in Multi-Regional Clinical Trials.](https://arxiv.org/abs/2602.02703) [[Code]](github.com/chenxi0217/RSATE-in-MRCT)
+[15] Chenxi Li, **Ke Zhu**, Shu Yang, and Xiaofei Wang\* (2026). [Selective Information Borrowing for Region-Specific Treatment Effect Inference under Covariate Mismatch in Multi-Regional Clinical Trials.](https://arxiv.org/abs/2602.02703) [[Code]](github.com/chenxi0217/RSATE-in-MRCT)
 
-[15] Yi Liu, Alexander W. Levis, **Ke Zhu**, Shu Yang, Peter B. Gilbert, and Larry Han\* (2025). [Targeted Data Fusion for Region-Specific Survival Effects in the AMP HIV Prevention Trials.](https://arxiv.org/abs/2501.18798) [[Package]](https://github.com/yiliu1998/FuseSurv)
-
-[16] Jiajun Liu†, **Ke Zhu**†, Shu Yang, and Xiaofei Wang\* (2025). [Robust estimation and inference in hybrid controlled trials for binary outcomes: A case study on non-small cell lung cancer.](https://arxiv.org/abs/2505.00217) [[Package]](https://github.com/IntegrativeStats/intFRT)
+[16] Yi Liu, Alexander W. Levis, **Ke Zhu**, Shu Yang, Peter B. Gilbert, and Larry Han\* (2025). [Targeted Data Fusion for Region-Specific Survival Effects in the AMP HIV Prevention Trials.](https://arxiv.org/abs/2501.18798) [[Package]](https://github.com/yiliu1998/FuseSurv)
 
 [17] Tingxuan Han†, **Ke Zhu**†, Hanzhong Liu\*, and Ke Deng\* (2025). [Imputation-based randomization tests for randomized experiments with interference.](https://arxiv.org/abs/2411.08352) [[Package]](https://github.com/htx113/imprt)
 
