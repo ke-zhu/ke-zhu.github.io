@@ -46,7 +46,7 @@ Publications
 ======
 († indicates co-first author; \* indicates corresponding author)
 
-[1] Xin Lu, Wanjia Fu, Hongzi Li, Haoyang Yu, Honghao Zhang, **Ke Zhu***, and Hanzhong Liu (2026). [Design-based Theory for Causal Inference (in Chinese).](https://arxiv.org/abs/2511.22518) *Advances in Mathematics*, in press.
+[1] Xin Lu, Wanjia Fu, Hongzi Li, Haoyang Yu, Honghao Zhang, **Ke Zhu**\*, and Hanzhong Liu (2026). [Design-based Theory for Causal Inference (in Chinese).](https://arxiv.org/abs/2511.22518) *Advances in Mathematics*, in press.
 
 [2] Jiajun Liu†, **Ke Zhu**†, Shu Yang, and Xiaofei Wang\* (2026). [Robust estimation and inference in hybrid controlled trials for binary outcomes: A case study on non-small cell lung cancer.](https://arxiv.org/abs/2505.00217) *The Annals of Applied Statistics*, in press. [[Package]](https://github.com/IntegrativeStats/intFRT)
 
