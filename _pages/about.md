@@ -46,11 +46,11 @@ Publications
 ======
 († indicates co-first author; \* indicates corresponding author)
 
-[1] Xin Lu, Wanjia Fu, Hongzi Li, Haoyang Yu, Honghao Zhang, **Ke Zhu***, and Hanzhong Liu (2026). [Design-based Theory for Causal Inference (in Chinese).](https://arxiv.org/abs/2511.22518)
+[1] Xin Lu, Wanjia Fu, Hongzi Li, Haoyang Yu, Honghao Zhang, **Ke Zhu***, and Hanzhong Liu (2026). [Design-based Theory for Causal Inference (in Chinese).](https://arxiv.org/abs/2511.22518) *Advances in Mathematics*, in press.
 
 [2] Jiajun Liu†, **Ke Zhu**†, Shu Yang, and Xiaofei Wang\* (2026). [Robust estimation and inference in hybrid controlled trials for binary outcomes: A case study on non-small cell lung cancer.](https://arxiv.org/abs/2505.00217) *The Annals of Applied Statistics*, in press. [[Package]](https://github.com/IntegrativeStats/intFRT)
 
-[3] Yi Liu, **Ke Zhu**, Larry Han, and Shu Yang\* (2026). [COADVISE: Covariate adjustment with variable selection in randomized controlled trials.](https://academic.oup.com/jrsssa/advance-article/doi/10.1093/jrsssa/qnaf171/8314246) *Journal of the Royal Statistical Society: Series A*, in press. [[Package]](https://github.com/yiliu1998/Coadvise)
+[3] Yi Liu, **Ke Zhu**, Larry Han, and Shu Yang\* (2026). [COADVISE: Covariate adjustment with variable selection in randomized controlled trials.](https://academic.oup.com/jrsssa/advance-article/doi/10.1093/jrsssa/qnaf171/8314246) *Journal of the Royal Statistical Society: Series A*, 189(3):1909-1945. [[Package]](https://github.com/yiliu1998/Coadvise)
 
 [4] Yi Liu, Alexander W. Levis, **Ke Zhu**, Shu Yang, Peter B. Gilbert, and Larry Han\* (2026). [Privacy-protected causal survival analysis under distribution shift.](https://openreview.net/forum?id=aTxnsFFO7t) *The 14th International Conference on Learning Representations (ICLR)*. [[Package]](https://github.com/yiliu1998/FuseSurv)
 
