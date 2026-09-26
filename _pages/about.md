@@ -105,5 +105,6 @@ Interdisciplinary Collaborations
 
 
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=320&t=tt&d=6azBu2HkvZX9yIT4v8xF7VXA7w7dy-5qi5E20N5j5Js&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
+<script data-goatcounter="https://ke-zhu.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 
