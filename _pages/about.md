@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m Ke Zhu, a **Senior Statistician at [BeOne Medicines](https://www.beonemedicines.com/)**, specializing in **real-world evidence (RWE), causal inference, and machine learning**. Previously, I was a Postdoctoral Research Scholar jointly affiliated with [North Carolina State University](https://statistics.sciences.ncsu.edu/people/kzhu24/) and [Duke University](https://biostat.duke.edu/profile/ke-zhu), mentored by Dr. [Shu Yang](https://shuyang.wordpress.ncsu.edu) and Dr. [Xiaofei Wang](https://biostat.duke.edu/profile/xiaofei-wang). I received my PhD from Tsinghua University, where I was advised by Dr. [Hanzhong Liu](https://www.stat.tsinghua.edu.cn/en/info/1023/1050.htm).
+I’m Ke Zhu, a Senior Statistician at [BeOne Medicines](https://www.beonemedicines.com/), specializing in real-world evidence (RWE), causal inference, and machine learning. Previously, I was a Postdoctoral Research Scholar jointly affiliated with [North Carolina State University](https://statistics.sciences.ncsu.edu/people/kzhu24/) and [Duke University](https://biostat.duke.edu/profile/ke-zhu), mentored by Dr. [Shu Yang](https://shuyang.wordpress.ncsu.edu) and Dr. [Xiaofei Wang](https://biostat.duke.edu/profile/xiaofei-wang). I received my PhD from Tsinghua University, where I was advised by Dr. [Hanzhong Liu](https://www.stat.tsinghua.edu.cn/en/info/1023/1050.htm).
 
 Professional Activities
 ======  
